@@ -1,17 +1,327 @@
-https://streamer-1.toffeelive.com/live/zee_tv_hd_320/index.m3u8
-http://216.144.250.174/Zee_Anm0l_HD/playlist.m3u8
-https://streamer-1.toffeelive.com/live/zee_bangla_320/index.m3u8
-http://216.144.250.174/Colors_TV_HD_01/index.m3u8
-https://anevia115.mncnow.id/live/eds/AndTV/sa_hls/AndTV.m3u8
-https://streamer-1.toffeelive.com/live/sony_entertainment_320//index.m3u8
-https://streamer-1.toffeelive.com/live/sony_aath_320/index.m3u8
-http://109.169.56.170/hls/starplus.m3u8
-http://109.169.56.170/hls/lifeok.m3u8
-http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
-http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
-
-#EXTM3U
+#EXTINF:-1,UK IND: Zee Cinema FHD
+http://uktv0.host:8000/empty/empty/197109
+#EXTINF:-1,UK IND: Zee Cinema HD
+http://uktv0.host:8000/empty/empty/197136
+#EXTINF:-1,UK IND: Zee Cinema SD
+http://uktv0.host:8000/empty/empty/197137
+#EXTINF:-1,UK IND: Star Bharat
+http://uktv0.host:8000/empty/empty/197110
+#EXTINF:-1,UK IND: Star Gold FHD
+http://uktv0.host:8000/empty/empty/197171
+#EXTINF:-1,UK IND: Star Gold HD
+http://uktv0.host:8000/empty/empty/197173
+#EXTINF:-1,UK IND: Star Gold SD
+http://uktv0.host:8000/empty/empty/197175
+#EXTINF:-1,UK IND: Star Plus FHD
+http://uktv0.host:8000/empty/empty/197170
+#EXTINF:-1,UK IND: Star Plus HD
+http://uktv0.host:8000/empty/empty/197172
+#EXTINF:-1,UK IND: Star Plus SD
+http://uktv0.host:8000/empty/empty/197174
+#EXTINF:-1,UK IND: NDTV 24x7
+http://uktv0.host:8000/empty/empty/197111
+#EXTINF:-1,UK IND: SONY MAX
+http://uktv0.host:8000/empty/empty/197112
+#EXTINF:-1,UK IND: SONY MAX 2
+http://uktv0.host:8000/empty/empty/197113
+#EXTINF:-1,UK IND: SONY SAB
+http://uktv0.host:8000/empty/empty/197114
+#EXTINF:-1,UK IND: ABP News
+http://uktv0.host:8000/empty/empty/197115
+#EXTINF:-1,UK IND: COLORS
+http://uktv0.host:8000/empty/empty/197116
+#EXTINF:-1,UK IND: ColorsCineplex
+http://uktv0.host:8000/empty/empty/197117
+#EXTINF:-1,UK IND: ColorsRishtey
+http://uktv0.host:8000/empty/empty/197118
+#EXTINF:-1,UK IND: Republic Bharat
+http://uktv0.host:8000/empty/empty/197119
+#EXTINF:-1,UK IND: HUM Masala
+http://uktv0.host:8000/empty/empty/197120
+#EXTINF:-1,UK IND: HUM News
+http://uktv0.host:8000/empty/empty/197121
+#EXTINF:-1,UK IND: Hidayat TV
+http://uktv0.host:8000/empty/empty/197122
+#EXTINF:-1,UK IND: GEO Kahani
+http://uktv0.host:8000/empty/empty/197123
+#EXTINF:-1,UK IND: PTV Global
+http://uktv0.host:8000/empty/empty/197124
+#EXTINF:-1,UK IND: Noor TV
+http://uktv0.host:8000/empty/empty/197125
+#EXTINF:-1,UK IND: Ahlebait TV
+http://uktv0.host:8000/empty/empty/197126
+#EXTINF:-1,UK IND: ATN Bangla UK
+http://uktv0.host:8000/empty/empty/197127
+#EXTINF:-1,UK IND: 92 News
+http://uktv0.host:8000/empty/empty/197128
+#EXTINF:-1,UK IND: AAJ TAK
+http://uktv0.host:8000/empty/empty/197129
+#EXTINF:-1,UK IND: Madani Chnl
+http://uktv0.host:8000/empty/empty/197130
+#EXTINF:-1,UK IND: Takbeer TV
+http://uktv0.host:8000/empty/empty/197131
+#EXTINF:-1,UK IND: Eman Channel
+http://uktv0.host:8000/empty/empty/197132
+#EXTINF:-1,UK IND: Sangat
+http://uktv0.host:8000/empty/empty/197134
+#EXTINF:-1,UK IND: Kanshi TV
+http://uktv0.host:8000/empty/empty/197135
+#EXTINF:-1,Indian- Zing IN
+http://uktv0.host:8000/empty/empty/196909
+#EXTINF:-1,Indian- Zee TV HD IN
+http://uktv0.host:8000/empty/empty/196910
+#EXTINF:-1,Indian- Zee Tamil HD IN
+http://uktv0.host:8000/empty/empty/196911
+#EXTINF:-1,Indian- Zee Talkies IN
+http://uktv0.host:8000/empty/empty/196912
+#EXTINF:-1,Indian- Zee News IN
+http://uktv0.host:8000/empty/empty/196913
+#EXTINF:-1,Indian- Zee Hindustan IN
+http://uktv0.host:8000/empty/empty/196914
+#EXTINF:-1,Indian- Zee Cinema HD IN
+http://uktv0.host:8000/empty/empty/196915
+#EXTINF:-1,Indian- Zee Cafe IN
+http://uktv0.host:8000/empty/empty/196916
+#EXTINF:-1,Indian- Zee Bangla HD IN
+http://uktv0.host:8000/empty/empty/196917
+#EXTINF:-1,Indian- Travel Xp HD IN
+http://uktv0.host:8000/empty/empty/196918
+#EXTINF:-1,Indian- Tlc World IN
+http://uktv0.host:8000/empty/empty/196919
+#EXTINF:-1,Indian- Ten Sports IN
+http://uktv0.host:8000/empty/empty/196920
+#EXTINF:-1,Indian- Ten Sports 3 HD IN
+http://uktv0.host:8000/empty/empty/196921
+#EXTINF:-1,Indian- Ten 2 HD IN
+http://uktv0.host:8000/empty/empty/196922
+#EXTINF:-1,Indian- Ten 1 HD IN
+http://uktv0.host:8000/empty/empty/196923
+#EXTINF:-1,Indian- Surya Samachar IN
+http://uktv0.host:8000/empty/empty/196924
+#EXTINF:-1,Indian- Sun TV HD IN
+http://uktv0.host:8000/empty/empty/196925
+#EXTINF:-1,Indian- Stars Ports 2 HD IN
+http://uktv0.host:8000/empty/empty/196926
+#EXTINF:-1,Indian- Star World HD IN
+http://uktv0.host:8000/empty/empty/196927
+#EXTINF:-1,Indian- Star Vijay Super IN
+http://uktv0.host:8000/empty/empty/196928
+#EXTINF:-1,Indian- Star Vijay HD IN
+http://uktv0.host:8000/empty/empty/196929
+#EXTINF:-1,Indian- Star Sprots 1 HD IN
+http://uktv0.host:8000/empty/empty/196930
+#EXTINF:-1,Indian- Star Sports Select 2 HD IN
+http://uktv0.host:8000/empty/empty/196931
+#EXTINF:-1,Indian- Star Sports Select 1 HD IN
+http://uktv0.host:8000/empty/empty/196932
+#EXTINF:-1,Indian- Star Sports Hindi HD IN
+http://uktv0.host:8000/empty/empty/196933
+#EXTINF:-1,Indian- Star Plus HD IN
+http://uktv0.host:8000/empty/empty/196934
+#EXTINF:-1,Indian- Star Movies HD IN
+http://uktv0.host:8000/empty/empty/196935
+#EXTINF:-1,Indian- Star Maa HD IN
+http://uktv0.host:8000/empty/empty/196936
+#EXTINF:-1,Indian- Star Gold Select HD IN
+http://uktv0.host:8000/empty/empty/196937
+#EXTINF:-1,Indian- Star Gold HD IN
+http://uktv0.host:8000/empty/empty/196938
+#EXTINF:-1,Indian- Star Bharat IN
+http://uktv0.host:8000/empty/empty/196939
+#EXTINF:-1,Indian- Sony Sab HD IN
+http://uktv0.host:8000/empty/empty/196940
+#EXTINF:-1,Indian- Sony Max HD IN
+http://uktv0.host:8000/empty/empty/196941
+#EXTINF:-1,Indian- Sony HD IN
+http://uktv0.host:8000/empty/empty/196942
+#EXTINF:-1,Indian- Sky Star Movies IN
+http://uktv0.host:8000/empty/empty/196943
+#EXTINF:-1,Indian- Republic News IN
+http://uktv0.host:8000/empty/empty/196944
+#EXTINF:-1,Indian- Rajya Sabha IN
+http://uktv0.host:8000/empty/empty/196945
+#EXTINF:-1,Indian- Public News IN
+http://uktv0.host:8000/empty/empty/196946
+#EXTINF:-1,Indian- Ptc Punjabi IN
+http://uktv0.host:8000/empty/empty/196947
+#EXTINF:-1,Indian- Ptc News IN
+http://uktv0.host:8000/empty/empty/196948
+#EXTINF:-1,Indian- Ptc Chak De IN
+http://uktv0.host:8000/empty/empty/196949
+#EXTINF:-1,Indian- Pix HD IN
+http://uktv0.host:8000/empty/empty/196950
+#EXTINF:-1,Indian- Peace TV HD IN
+http://uktv0.host:8000/empty/empty/196951
+#EXTINF:-1,Indian- Peace TV English IN
+http://uktv0.host:8000/empty/empty/196952
+#EXTINF:-1,Indian- Paigham Urdu IN
+http://uktv0.host:8000/empty/empty/196953
+#EXTINF:-1,Indian- Paigham Pashtoo IN
+http://uktv0.host:8000/empty/empty/196954
+#EXTINF:-1,Indian- Nick HD IN
+http://uktv0.host:8000/empty/empty/196955
+#EXTINF:-1,Indian- News Rajhistan IN
+http://uktv0.host:8000/empty/empty/196956
+#EXTINF:-1,Indian- National Geographic IN
+http://uktv0.host:8000/empty/empty/196957
+#EXTINF:-1,Indian- Nat Geo Wild IN
+http://uktv0.host:8000/empty/empty/196958
+#EXTINF:-1,Indian- Masti IN
+http://uktv0.host:8000/empty/empty/196959
+#EXTINF:-1,Indian- Mahamovies IN
+http://uktv0.host:8000/empty/empty/196960
+#EXTINF:-1,Indian- Lok Sabha IN
+http://uktv0.host:8000/empty/empty/196961
+#EXTINF:-1,Indian- Ktv HD IN
+http://uktv0.host:8000/empty/empty/196962
+#EXTINF:-1,Indian- Kashish news  IN
+http://uktv0.host:8000/empty/empty/196963
+#EXTINF:-1,Indian- Jalwa IN
+http://uktv0.host:8000/empty/empty/196964
+#EXTINF:-1,Indian- India News IN
+http://uktv0.host:8000/empty/empty/196965
+#EXTINF:-1,Indian- Ifilm HD IN
+http://uktv0.host:8000/empty/empty/196966
+#EXTINF:-1,Indian- History HD IN
+http://uktv0.host:8000/empty/empty/196967
+#EXTINF:-1,Indian- Hbo HD IN
+http://uktv0.host:8000/empty/empty/196968
+#EXTINF:-1,Indian- Fox Life HD IN
+http://uktv0.host:8000/empty/empty/196969
+#EXTINF:-1,Indian- Express News HD IN
+http://uktv0.host:8000/empty/empty/196970
+#EXTINF:-1,Indian- Express Entertainment IN
+http://uktv0.host:8000/empty/empty/196971
+#EXTINF:-1,Indian- Etv Uk IN
+http://uktv0.host:8000/empty/empty/196972
+#EXTINF:-1,Indian- Espn IN
+http://uktv0.host:8000/empty/empty/196973
+#EXTINF:-1,Indian- Epic HD IN
+http://uktv0.host:8000/empty/empty/196974
+#EXTINF:-1,Indian- Disney HD IN
+http://uktv0.host:8000/empty/empty/196975
+#EXTINF:-1,Indian- Discovery Turbo IN
+http://uktv0.host:8000/empty/empty/196976
+#EXTINF:-1,Indian- Discovery Science HD IN
+http://uktv0.host:8000/empty/empty/196977
+#EXTINF:-1,Indian- Discovery Kids IN
+http://uktv0.host:8000/empty/empty/196978
+#EXTINF:-1,Indian- Discovery Kids HD IN
+http://uktv0.host:8000/empty/empty/196979
+#EXTINF:-1,Indian- Discovery HD IN
+http://uktv0.host:8000/empty/empty/196980
+#EXTINF:-1,Indian- DD Urdu IN
+http://uktv0.host:8000/empty/empty/196981
+#EXTINF:-1,Indian- DD Sports IN
+http://uktv0.host:8000/empty/empty/196982
+#EXTINF:-1,Indian- DD Punjabi IN
+http://uktv0.host:8000/empty/empty/196983
+#EXTINF:-1,Indian- DD Kisan IN
+http://uktv0.host:8000/empty/empty/196984
+#EXTINF:-1,Indian- DD Girner IN
+http://uktv0.host:8000/empty/empty/196985
+#EXTINF:-1,Indian- DD Chandana IN
+http://uktv0.host:8000/empty/empty/196986
+#EXTINF:-1,Indian- DD Bharat IN
+http://uktv0.host:8000/empty/empty/196987
+#EXTINF:-1,Indian- DD Bangla IN
+http://uktv0.host:8000/empty/empty/196988
+#EXTINF:-1,Indian- DD Arun IN
+http://uktv0.host:8000/empty/empty/196989
+#EXTINF:-1,Indian- Dangal IN
+http://uktv0.host:8000/empty/empty/196990
+#EXTINF:-1,Indian- Colours UK IN
+http://uktv0.host:8000/empty/empty/196991
+#EXTINF:-1,Indian- Colors Tamil HD IN
+http://uktv0.host:8000/empty/empty/196992
+#EXTINF:-1,Indian- Colors Infinity HD IN
+http://uktv0.host:8000/empty/empty/196993
+#EXTINF:-1,Indian- Colors HD IN
+http://uktv0.host:8000/empty/empty/196994
+#EXTINF:-1,Indian- Colors Bangla HD IN
+http://uktv0.host:8000/empty/empty/196995
+#EXTINF:-1,Indian- Cineplex HD IN
+http://uktv0.host:8000/empty/empty/196996
+#EXTINF:-1,Indian- Cinemachi Kids IN
+http://uktv0.host:8000/empty/empty/196997
+#EXTINF:-1,Indian- Cartoon Network IN
+http://uktv0.host:8000/empty/empty/196998
+#EXTINF:-1,Indian- Bollywood Movies IN
+http://uktv0.host:8000/empty/empty/196999
+#EXTINF:-1,Indian- Big Magic IN
+http://uktv0.host:8000/empty/empty/197000
+#EXTINF:-1,Indian- Bhojpori Cinema IN
+http://uktv0.host:8000/empty/empty/197001
+#EXTINF:-1,Indian- Baby TV HD IN
+http://uktv0.host:8000/empty/empty/197002
+#EXTINF:-1,Indian- B4u Music IN
+http://uktv0.host:8000/empty/empty/197003
+#EXTINF:-1,Indian- B4u Movies IN
+http://uktv0.host:8000/empty/empty/197004
+#EXTINF:-1,Indian- Asianet HD IN
+http://uktv0.host:8000/empty/empty/197005
+#EXTINF:-1,Indian- Animal Planet World HD IN
+http://uktv0.host:8000/empty/empty/197006
+#EXTINF:-1,Indian- Animal Planet HD IN
+http://uktv0.host:8000/empty/empty/197007
+#EXTINF:-1,Indian- AAJ News IN
+http://uktv0.host:8000/empty/empty/197008
+#EXTINF:-1,Indian- AAJ Katez IN
+http://uktv0.host:8000/empty/empty/197009
+#EXTINF:-1,Indian- 9xm IN
+http://uktv0.host:8000/empty/empty/197010
+#EXTINF:-1,Indian- 8xm HD IN
+http://uktv0.host:8000/empty/empty/197011
+#EXTINF:-1,Indian- 4tv News IN
+http://uktv0.host:8000/empty/empty/197012
+#EXTINF:-1,Indian- 1 IN
+http://uktv0.host:8000/empty/empty/197013
+#EXTINF:-1,Indian- &Tv HD IN
+http://uktv0.host:8000/empty/empty/197014
+#EXTINF:-1,Indian- &Prive HD IN
+http://uktv0.host:8000/empty/empty/197015
+#EXTINF:-1,Indian- &Pictures HD IN
+http://uktv0.host:8000/empty/empty/197016
+#EXTINF:-1,Indian- &Flix HD IN
+http://uktv0.host:8000/empty/empty/197017
+#EXTINF:-1,UK- SONY TV
+http://uktv0.host:8000/empty/empty/197018
+#EXTINF:-1,UK- SONY MAX
+http://uktv0.host:8000/empty/empty/197019
+#EXTINF:-1,Indian- zkannada
+http://uktv0.host:8000/empty/empty/197020
+#EXTINF:-1,Indian- Zing
+http://uktv0.host:8000/empty/empty/197021
+#EXTINF:-1,Indian-And Pictures HD
+http://uktv0.host:8000/empty/empty/197022
+#EXTINF:-1,Indian- And Flix HD
+http://uktv0.host:8000/empty/empty/197023
+#EXTINF:-1,Indian- And Flix
+http://uktv0.host:8000/empty/empty/197024
+#EXTINF:-1,Indian- And Prive HD
+http://uktv0.host:8000/empty/empty/197025
+#EXTINF:-1,Indian- ddindia
+http://uktv0.host:8000/empty/empty/197026
+#EXTINF:-1,Indian- ddnews
+http://uktv0.host:8000/empty/empty/197027
+#EXTINF:-1,Indian- kalinga
+http://uktv0.host:8000/empty/empty/197028
+#EXTINF:-1,Indian- Kbo
+http://uktv0.host:8000/empty/empty/197029
+#EXTINF:-1,Indian- Kbo classic
+http://uktv0.host:8000/empty/empty/197030
+#EXTINF:-1,Indian- Colors kannada
+http://uktv0.host:8000/empty/empty/197031
+#EXTINF:-1,Indian- Bbo classic
+http://uktv0.host:8000/empty/empty/197032
+#EXTINF:-1,Indian- Mbo
+http://uktv0.host:8000/empty/empty/197033
+#EXTINF:-1,Indian- zee classic
+http://uktv0.host:8000/empty/empty/197034
+#EXTINF:-1,Indian- Colors marathi
+http://uktv0.host:8000/empty/empty/197035
+#EXTINF:-1,Indian- Colors super
+http://uktv0.host:8000/empty/empty/197036
 #EXTINF:0,FOX SPORTS 1
 http://primestreams.tv:826/polarisx3/Qw76j61Bib/1367
 #EXTINF:0,FOX SPORTS 2
