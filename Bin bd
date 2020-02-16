@@ -1,3 +1,15 @@
+#EXTINF:-1,star plus
+http://109.169.56.170/hls/starplus.m3u8
+
+#EXTINF:-1,zee tv
+https://anevia115.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
+
+#EXTINF:-1,zee anmol
+http://216.144.250.174/Zee_Anm0l_HD/playlist.m3u8
+
+#EXTINF:-1, star Bharat
+http://109.169.56.170/hls/lifeok.m3u8
+
 
 #EXTINF:-1,Sony TV hd
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
