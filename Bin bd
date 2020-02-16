@@ -1,3 +1,7 @@
+
+
+<tr><td align="left">India</td><td align="right">254</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/in.m3u</code></td><td align="left"><code>http://epg.streamstv.me/epg/guide-india.xml.gz</code></td></tr>
+
 #EXTINF:-1,star plus
 http://109.169.56.170/hls/starplus.m3u8
 
