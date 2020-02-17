@@ -148,7 +148,7 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 <Pakista>
 
 #EXTINF:-1,ary news
-http://158.69.229.30:8081/newsint_abr/livestream_abr/playlist.m3u8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F9FFutkwFes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 https://live4nginx.zedflix.pk/hls/bolnewsweb_240p.m3u8
 #EXTINF:-1,public news
 https://live4nginx.zedflix.pk/hls/publicnewsweb_240p.m3u8
