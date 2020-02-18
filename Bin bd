@@ -11,7 +11,7 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/01.m3u8
 #EXTINF:-1,zee action
 https://streamer-1.toffeelive.com/live/zee_action_240/index.m3u8
 #EXTINF:-1,Sony pal
-http://94.130.175.89:4545/ind2020/sonypal/chunks.m3u8?nimblesessionid=2425628&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDExOjQ4OjAyIFBNJmhhc2hfdmFsdWU9NGtTL3ZSRk1Mcy9OTXpDZHhnNnFWQT09JnZhbGlkbWludXRlcz0y
+http://94.130.175.89:4545/ind2020/sonypal/chunks.m3u8?nimblesessionid=2471819&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDQ6MDU6MTIgQU0maGFzaF92YWx1ZT1ucCthTStyVWVaQXpkVlJtMDlnUmJRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,star plus
 http://109.169.56.170/hls/starplus.m3u8
 
