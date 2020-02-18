@@ -14,17 +14,12 @@ https://streamer-1.toffeelive.com/live/zee_action_240/index.m3u8
 http://94.130.175.89:4545/ind2020/sonypal/chunks.m3u8?nimblesessionid=2471819&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDQ6MDU6MTIgQU0maGFzaF92YWx1ZT1ucCthTStyVWVaQXpkVlJtMDlnUmJRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,star plus
 http://109.169.56.170/hls/starplus.m3u8
-
 #EXTINF:-1,zee tv
 https://anevia115.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
-
 #EXTINF:-1,zee anmol
 http://216.144.250.174/Zee_Anm0l_HD/playlist.m3u8
-
 #EXTINF:-1, star Bharat
 http://109.169.56.170/hls/lifeok.m3u8
-
-
 #EXTINF:-1,Sony TV hd
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 #EXTINF:-1,banglatv					
@@ -41,26 +36,12 @@ https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NetGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,India News
-https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
-#EXTINF:-1,India News UP
-http://streamer.multitvsolution.in/live/IndiaNewsUP-g/p4.m3u8
-#EXTINF:-1,India News Punjab
-http://streamer.multitvsolution.in/live/IndiaNewsPunjab-a/p4.m3u8
 #EXTINF:-1,Mastiii
 http://streamer.multitvsolution.in/live/Mastiii-f/p4.m3u8
 #EXTINF:-1,P TUNE
 http://streamer.multitvsolution.in/live/PTunes-d/p4.m3u8
 #EXTINF:-1,P TUNE PLUS
 http://streamer.multitvsolution.in/live/PtunesPlus-d/p3.m3u8
-#EXTINF:-1,LIVE CRICKET
-http://nxtsports.tk/api/yupp/IndvsBan.m3u8
-#EXTINF:-1,ten 2
-http://163.172.85.133:8080/TenS/1/index.m3u8
-#EXTINF:-1, TEN 3
-http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1,TEN 1
-http://163.172.85.133:8080/TenS/2/index.m3u8
 #EXTINF:-1,ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1,ZEE cinema
@@ -85,6 +66,26 @@ http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,Manoranjan
 http://streamer.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
+
+#EXTINF:-1,abp news 
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1,indiatoday
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1,news taz
+https://feeds.intoday.in/aajtak/api/tez/master.m3u8
+#EXTINF:-1,aajtak
+https://vidcdn.vidgyor.com/at-origin/liveabr/playlist.m3u8
+#EXTINF:-1, nd tv india
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1,news 18 urdu
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/master.m3u8?hdnea=st=1582015951~exp=1582051951~acl=/*~hmac=3bbd4564025dd59b426f8b968eceeb9c5f1acc312af95d523f1d7b112dbdf427B
+#EXTINF:-1,India News
+https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
+#EXTINF:-1,India News UP
+http://streamer.multitvsolution.in/live/IndiaNewsUP-g/p4.m3u8
+#EXTINF:-1,India News Punjab
+http://streamer.multitvsolution.in/live/IndiaNewsPunjab-a/p4.m3u8
+
 #EXTINF:-1,Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,Maasranga
@@ -139,13 +140,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-
-
-
-
-
-<Pakista>
-
+<Pakistan>
 #EXTINF:-1,ary news
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 https://live4nginx.zedflix.pk/hls/bolnewsweb_240p.m3u8
@@ -191,8 +186,6 @@ http://stream.tapmad.com:1935/pitvlive2/metro3_240p/chunklist.m3u8
 http://stream.tapmad.com:1935/pitvlive2/city423_240p/chunklist.m3u8
 #EXTINF:-1,ptv nees
 http://stream.tapmad.com:1935/pitvlive2/ptvnews3_240p/chunklist.m3u8
-
-
 
 #EXTINF:-1,homraaz
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
@@ -252,7 +245,14 @@ http://stream.tapmad.com:1935/pitvlive2/k23_240p/media.m3u8
 #EXTINF:-1,pushto
 http://stream.tapmad.com:1935/pitvlive2/pushto13_240p/media.m3u8
 
-
+#EXTINF:-1,LIVE CRICKET
+http://nxtsports.tk/api/yupp/IndvsBan.m3u8
+#EXTINF:-1,ten 2
+http://163.172.85.133:8080/TenS/1/index.m3u8
+#EXTINF:-1, TEN 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:-1,TEN 1
+http://163.172.85.133:8080/TenS/2/index.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
 http://skdn.redi-vo.com/iptv/ch111?code=1701273726237058&key=54576
@@ -320,7 +320,6 @@ http://skdn.redi-vo.com/iptv/ch517?code=1701273726237058&key=27619
 http://skdn.redi-vo.com/iptv/ch522?code=1701273726237058&key=52241
 #EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/1100.png",Fight Box
 http://skdn.redi-vo.com/iptv/ch1100?code=1701273726237058&key=43972
-
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/110.png",Bein Sports News
 http://skdn.redi-vo.com/iptv/ch110?code=103131497823984&key=44880
