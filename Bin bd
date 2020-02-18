@@ -80,10 +80,6 @@ https://vidcdn.vidgyor.com/at-origin/liveabr/playlist.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1,India news
 https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
-#EXTINF:-1,India News UP
-http://streamer.multitvsolution.in/live/IndiaNewsUP-g/p4.m3u8
-#EXTINF:-1,India News Punjab
-http://streamer.multitvsolution.in/live/IndiaNewsPunjab-a/p4.m3u8
 
 #EXTINF:-1,Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
