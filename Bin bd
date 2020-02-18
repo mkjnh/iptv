@@ -253,6 +253,34 @@ http://stream.tapmad.com:1935/pitvlive2/k23_240p/media.m3u8
 http://stream.tapmad.com:1935/pitvlive2/pushto13_240p/media.m3u8
 
 
+B
+
+#EXTINF:-1,bein1
+http://185.63.254.79:4747/sports2020/bein1sd/chunks.m3u8?nimblesessionid=44517128&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NDU6MTEgQU0maGFzaF92YWx1ZT1UenN1dmQ3dU02RXB0N240d3dLWFhRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,bein2
+http://185.63.254.79:4747/sports2020/bein2sd/chunks.m3u8?nimblesessionid=44525533&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MTM6NDQgQU0maGFzaF92YWx1ZT1XeHR0dzBRY3FuOTJlMXBIbUsrOGtnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,bein3
+http://185.63.254.79:4747/sports2020/bein3/chunks.m3u8?nimblesessionid=44528164&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MjQ6MzkgQU0maGFzaF92YWx1ZT15dW11ZlBzcWF2a3kzdzdJa2wzQ29nPT0mdmFsaWRtaW51dGVzPTI=#EXTINF:-1,
+#EXTINF:-1,bein4
+http://185.63.254.79:4747/sports2020/bein4sd/chunks.m3u8?nimblesessionid=44531389&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6Mzc6NDAgQU0maGFzaF92YWx1ZT1ZdjdiRTBka1V6ZWwreFVMUm1kZndnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,bein 5
+http://185.63.254.79:4747/sports2020/bein5sd/chunks.m3u8?nimblesessionid=44532271&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NDE6MTggQU0maGFzaF92YWx1ZT1PKy81bVIzOWQ3a3BGYzhEbzEwTGxRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,bein 6
+http://185.63.254.79:4747/sports2020/bein6sd/chunks.m3u8?nimblesessionid=44532384&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NDE6NTQgQU0maGFzaF92YWx1ZT1VVHN6Sm1RM3RUSC8rclBwbnN6YXpRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,bein 7
+http://185.63.254.79:4747/sports2020/bein7sd/chunks.m3u8?nimblesessionid=44532545&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NDI6MTggQU0maGFzaF92YWx1ZT0vVjIyWWlEOGlrVytUbFFJODdUaU9RPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,bein 8
+http://185.63.254.79:4747/sports2020/bein8sd/chunks.m3u8?nimblesessionid=44532697&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NDI6NDYgQU0maGFzaF92YWx1ZT1ETFVpaWNFdVVQSUNmL3BYZkNhcVNRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,bein 9
+http://185.63.254.79:4747/sports2020/bein9sd/chunks.m3u8?nimblesessionid=44532798&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NDM6MDggQU0maGFzaF92YWx1ZT1ScmswMjlmRnIwVTRmaWNLT2Y1SklnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,bein 10
+http://185.63.254.79:4747/sports2020/bein10sd/chunks.m3u8?nimblesessionid=44532932&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NDM6MzggQU0maGFzaF92YWx1ZT16ZVp1aCtlU2tMZHF6RE9jbm5rOEJBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,bein 11
+http://185.63.254.79:4747/sports2020/bein11sd/chunks.m3u8?nimblesessionid=44533048&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NDQ6MDMgQU0maGFzaF92YWx1ZT02TDlYejM0R2NNZUVjZ3hMb09NdE9RPT0mdmFsaWRtaW51dGVzPTI=
+
+
+
+
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/110.png",Bein Sports News
 http://skdn.redi-vo.com/iptv/ch110?code=103131497823984&key=44880
