@@ -66,7 +66,8 @@ http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,Manoranjan
 http://streamer.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
-
+#EXTINF:-1,
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/master.m3u8?hdnea=st=1582021208~exp=1582057208~acl=/*~hmac=d1a9f518e82152ea069aedffd3a3dc8922a82d043d68370fde76af88af4a93d1
 #EXTINF:-1,abp news 
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1,indiatoday
@@ -77,9 +78,7 @@ https://feeds.intoday.in/aajtak/api/tez/master.m3u8
 https://vidcdn.vidgyor.com/at-origin/liveabr/playlist.m3u8
 #EXTINF:-1, nd tv india
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1,news 18 urdu
-https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/master.m3u8?hdnea=st=1582015951~exp=1582051951~acl=/*~hmac=3bbd4564025dd59b426f8b968eceeb9c5f1acc312af95d523f1d7b112dbdf427B
-#EXTINF:-1,India News
+#EXTINF:-1,India news
 https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
 #EXTINF:-1,India News UP
 http://streamer.multitvsolution.in/live/IndiaNewsUP-g/p4.m3u8
