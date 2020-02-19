@@ -1,5 +1,98 @@
 
 
+
+	#EXTINF:-1,	GEMINI MOVIES
+http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8		
+	#EXTINF:-1,	• BFLIX MOVIES
+https://streamer-1.toffeelive.com/live/bflix_320/index.m3u8		
+	#EXTINF:-1,	• BOLLYWOOD HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END		
+	#EXTINF:-1,	• BOLLYWOOD CLASSIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END		
+	#EXTINF:-1,	• SHEMAROO PREMIER
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_640x360_cf.m3u8		
+	#EXTINF:-1,	• SHEMAROO CLASSIC
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_640x360_cf.m3u8		
+	#EXTINF:-1,	• SHEMAROO PUNJABI
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_640x360_cf.m3u8		
+	#EXTINF:-1,	• ZEE CINEMA (UK)
+https://streamer-1.toffeelive.com/live/zee_cinema_320/index.m3u8		
+	#EXTINF:-1,	• ZEE CINEMA
+http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8		
+	#EXTINF:-1,	• ZEE ACTION
+http://216.144.250.174/Zee_ActIon_HD/index.m3u8		
+	#EXTINF:-1,	• ZEE ACTION
+https://streamer-1.toffeelive.com/live/zee_action_320/index.m3u8		
+	#EXTINF:-1,	• ZEE BOLLYWOOD
+http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8		
+	#EXTINF:-1,	• ZEE BANGLA CINEMA
+https://streamer-1.toffeelive.com/live/zee_bangla_cinema_320/index.m3u8		
+	#EXTINF:-1,	• STAR GOLD (SIN)
+http://fr-c.movply.stream/hls/Star_Gold.m3u8		
+	#EXTINF:-1,	• STAR GOLD (UK)
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8		
+	#EXTINF:-1,	• SONY MAX
+https://streamer-1.toffeelive.com/live/sony_max_320/index.m3u8		
+	#EXTINF:-1,	• SONY MAX HD
+https://streamer-1.toffeelive.com/live/set_max_hd_320/index.m3u8		
+	#EXTINF:-1,	• SONY MAX HD
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8		
+	#EXTINF:-1,	• SONY MAX 2
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8		
+	#EXTINF:-1,	• SONY PIX
+https://streamer-1.toffeelive.com/live/sony_pix_320/index.m3u8		
+	#EXTINF:-1,	• B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8		
+	#EXTINF:-1,	• ZEE AFLAM
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8		
+	#EXTINF:-1,	• ZEE TALKIES
+http://216.144.250.174/Zee_TalkIes_HD/playlist.m3u8		
+	#EXTINF:-1,	• MANORANJAN TV
+http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8		
+	#EXTINF:-1,	• MANORANJAN MOVIES
+http://streamidvo.multitvsolution.in//live//ManoranjanMovies-f//p3.m3u8		
+	#EXTINF:-1,	• MULTIPLEX
+http://streamidvo.multitvsolution.in//live//MultiplexCinema-e//p3.m3u8		
+	#EXTINF:-1,	• WOW CINEMA
+http://streamidvo.multitvsolution.in//live/WowCinema-d/p3.m3u8		
+	#EXTINF:-1,	• ENTERR 10
+http://streamidvo.multitvsolution.in//live//Enterr10-f//p3.m3u8		
+	#EXTINF:-1,	• HOUSEFUL MOVIES
+http://streamidvo.multitvsolution.in/live/Housefullmovies-f/p3.m3u8		
+	#EXTINF:-1,	• MAHA MOVIES
+http://streamidvo.multitvsolution.in/live/MahaMovie-g/p3.m3u8		
+	#EXTINF:-1,	• KHUSHBOO
+http://streamidvo.multitvsolution.in//live//KHUSHBOO-f//p3.m3u8		
+	#EXTINF:-1,	• DABANGG
+http://streamidvo.multitvsolution.in//live//DABANGG-f//p3.m3u8		
+	#EXTINF:-1,	• BHOJPURI CINEMA
+http://streamidvo.multitvsolution.in//live//BhojpuriCinema-f//p3.m3u8		
+	#EXTINF:-1,	• FAKHT MARATHI
+http://streamidvo.multitvsolution.in//live//FaktMarathi-a//p3.m3u8		
+	#EXTINF:-1,	• OSCAR MOVIES
+http://streamidvo.multitvsolution.in//live//OscarMoviesBhojpuri-e//p3.m3u8		
+	#EXTINF:-1,	• B4U MOVIES
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8		
+	#EXTINF:-1,	• B4U AFLAM
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/03.m3u8		
+	#EXTINF:-1,	• B4U PLUS
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/03.m3u8		
+	#EXTINF:-1,	• ZEE CLASSIC UK
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8		
+	#EXTINF:-1,	• BOLLYWOOD CLASSIC
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8		
+	#EXTINF:-1,	• MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8		
+	#EXTINF:-1,	• NTV MOVIES
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8		
+	#EXTINF:-1,	• STAR MOVIES ME
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8		
+	#EXTINF:-1,	• STAR WORLD ME
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8		
+	#EXTINF:-1,	• STAR WORLD ME
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8		
+
+
 #EXTINF:-1,zeeaflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1,b4uaflam
