@@ -154,7 +154,18 @@ http://109.169.56.170/hls/lifeok.m3u8
 #EXTINF:-1,Sony TV hd
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 #EXTINF:-1,banglatv					
-https://streamer-1.toffeelive.com/live/zee_cinema_320/index.m3u8			
+https://streamer-1.toffeelive.com/live/zee_cinema_320/index.m3u8
+
+
+
+#EXTINF:-1,Nat Geo 				
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8				
+#EXTINF:-1,Nat Geo wild				
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8				
+#EXTINF:-1,Nat Geo people				
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8				
+#EXTINF:-1, history				
+http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8							
 #EXTINF:-1,Animal Planet
 http://streamer.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 #EXTINF:-1,Discovery Hindi
