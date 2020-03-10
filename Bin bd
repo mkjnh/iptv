@@ -472,24 +472,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
 
 
 
-#vo.com/iptv/ch504?code=138137164006399&key=16888
-#EXTINF:0 group-title="Arabic News"tvg-logo="http://logo.ddnb.tn/logochanel/52.png",ANN
-http://skdn.redi-vo.com/iptv/ch52?code=138137164006399&key=42245
-#EXTINF:0 group-title="Arabic News"tvg-logo="http://logo.ddnb.tn/logochanel/148.png",BBC World Arabic
-http://skdn.redi-vo.com/iptv/ch148?code=138137164006399&key=63892
-#EXTINF:0 group-title="Arabic News"tvg-logo="http://logo.ddnb.tn/logochanel/1149.png",Asia Tv
-http://skdn.redi-vo.com/iptv/ch1149?code=138137164006399&key=27931
-#EXTINF:0 group-title="Arabic News"tvg-logo="http://logo.ddnb.tn/logochanel/182.png",Nile news
-http://skdn.redi-vo.com/iptv/ch182?code=138137164006399&key=47711
-#EXTINF:0 group-title="Arabic News"tvg-logo="http://logo.ddnb.tn/logochanel/559.png",Al Sharquia News
-http://skdn.redi-vo.com/iptv/ch559?code=138137164006399&key=10179
-#EXTINF:0 group-title="Arabic News"tvg-logo="http://logo.ddnb.tn/logochanel/141.png",Iraqiya News
-http://skdn.redi-vo.com/iptv/ch141?code=138137164006399&key=60529
-#EXTINF:0 group-title="Arabic News"tvg-logo="http://logo.ddnb.tn/logochanel/493.png",Saoudi  Ekhbarya
-http://skdn.redi-vo.com/iptv/ch493?code=138137164006399&key=11991
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/753.png",Gear One
-http://skdn.redi-vo.com/iptv/ch753?code=138137164006399&key=31052
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/183.png",Nile Sport
+Ihttp://logo.ddnb.tn/logochanel/183.png",Nile Sport
 http://skdn.redi-vo.com/iptv/ch183?code=138137164006399&key=52091
 #EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/792.png",Kuwait Sport
 http://skdn.redi-vo.com/iptv/ch792?code=138137164006399&key=24387
