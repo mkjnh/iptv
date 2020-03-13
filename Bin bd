@@ -390,18 +390,10 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1,TEN 1
 http://163.172.85.133:8080/TenS/2/index.m3u8
-#EXTINF:-1, star sports hindi													
-http://51.15.8.16:8081/ind1live/starsports1hindi/playlist.m3u8													
-#EXTINF:-1,star sports 1													
-http://51.15.8.16:8081/ind1live/starsports1/playlist.m3u8													
+#EXTINF:-1, star sports 																												
+http://68.183.92.29:1935/live/star1/playlist.m3u8													
 #EXTINF:-1,star sports 2													
-http://68.183.92.29:1935/live/star2/playlist.m3u8													
-#EXTINF:-1,star sports first													
-http://51.15.8.16:8081/ind1live/starsportsfirst/playlist.m3u8													
-#EXTINF:-1,star sports select 1													
-http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8													
-#EXTINF:-1, star sports select 2													
-http://51.15.8.16:8081/ind1live/starsportsselect2/playlist.m3u8													
+http://68.183.92.29:1935/live/star2/playlist.m3u8																																																																									
 #EXTINF:-1,hls													
 http://212.47.252.54/hls/stream.m3u8													
 #EXTINF:-1,D sports													
