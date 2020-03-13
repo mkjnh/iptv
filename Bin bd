@@ -153,29 +153,6 @@ http://109.169.56.170/hls/lifeok.m3u8
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 #EXTINF:-1,banglatv					
 https://streamer-1.toffeelive.com/live/zee_cinema_320/index.m3u8
-
-
-
-#EXTINF:-1,Nat Geo 				
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8				
-#EXTINF:-1,Nat Geo wild				
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8				
-#EXTINF:-1,Nat Geo people				
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8				
-#EXTINF:-1, history				
-http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8							
-#EXTINF:-1,Animal Planet
-http://streamer.multitvsolution.in//live//APHDHindi-a//p4.m3u8
-#EXTINF:-1,Discovery Hindi
-http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
-#EXTINF:-1,Discovery Science
-http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
-#EXTINF:-1,History Tv
-https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
-#EXTINF:-1,banglatv aeo
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1,NetGeo People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1,Mastiii
 http://streamer.multitvsolution.in/live/Mastiii-f/p4.m3u8
 #EXTINF:-1,P TUNE
@@ -206,6 +183,7 @@ http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,Manoranjan
 http://streamer.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
+(News India)
 #EXTINF:-1,
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/master.m3u8?hdnea=st=1582021208~exp=1582057208~acl=/*~hmac=d1a9f518e82152ea069aedffd3a3dc8922a82d043d68370fde76af88af4a93d1
 #EXTINF:-1,abp news 
@@ -221,6 +199,34 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 #EXTINF:-1,India news
 https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
 
+
+(GEO tv )
+#EXTINF:-1,Nat Geo 				
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8				
+#EXTINF:-1,Nat Geo wild				
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8				
+#EXTINF:-1,Nat Geo people				
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8				
+#EXTINF:-1, history				
+http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8							
+#EXTINF:-1,Animal Planet
+http://streamer.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1,Discovery Hindi
+http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+#EXTINF:-1,Discovery Science
+http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+#EXTINF:-1,History Tv
+https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
+#EXTINF:-1,banglatv aeo
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1,NetGeo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+
+
+
+
+(Bangladesh)
 #EXTINF:-1,Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,Maasranga
@@ -380,6 +386,8 @@ http://stream.tapmad.com:1935/pitvlive2/k23_240p/media.m3u8
 #EXTINF:-1,pushto
 http://stream.tapmad.com:1935/pitvlive2/pushto13_240p/media.m3u8
 
+
+(Sports)
 #EXTINF:-1,LIVE CRICKET
 http://nxtsports.tk/api/yupp/IndvsBan.m3u8
 #EXTINF:-1,ten 2
@@ -413,7 +421,7 @@ http://tv.b4ucast.me/tv/BI2drTR2fM20190929/chunklist_w1911832417_tkaGxzZW5kdGltZ
 #EXTINF:-1,ptv sports													
 http://tv.b4ucast.me/tv/0N6YieAVfX20190929/chunklist_w1706728721_tkaGxzZW5kdGltZT0xNTgzNDkxMTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9LWJrZEJObXFycDU1bWdEcC15cjR1aWZ3eDlBYWhsemRheUFTMGxveV9kST0=.m3u8
 
-
+(Malabari)
 													
 #EXTINF:-1, acv plus								
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/chunklist_b996000.m3u8?nimblesessionid=227456								
