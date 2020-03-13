@@ -395,7 +395,7 @@ http://51.15.8.16:8081/ind1live/starsports1hindi/playlist.m3u8
 #EXTINF:-1,star sports 1													
 http://51.15.8.16:8081/ind1live/starsports1/playlist.m3u8													
 #EXTINF:-1,star sports 2													
-http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8													
+http://68.183.92.29:1935/live/star2/playlist.m3u8													
 #EXTINF:-1,star sports first													
 http://51.15.8.16:8081/ind1live/starsportsfirst/playlist.m3u8													
 #EXTINF:-1,star sports select 1													
