@@ -1,6 +1,4 @@
 
-#EXTINF:-1,test
-https://youtu.be/lDMWKVbMc9I
 
 #EXTINF:-1, SONY MAX																	
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne																	
@@ -325,6 +323,46 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 <Pakistan>
+
+#EXTINF:-1,"ARY NEWS LIVE 
+https://youtu.be/lDMWKVbMc9I
+#EXTINF:-1,art zindagi
+https://stream.arylive.com/ZindagiLive/index.m3u8
+#EXTINF:-1,art Q tv
+https://stream.arylive.com/QtvLive/index.m3u8
+#EXTINF:-1,ary musik
+https://stream.arylive.com/MusikLive/index.m3u8
+#EXTINF:-1,GEO news
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp3/chunks_dvr.m3u8
+#EXTINF:-1,ptv news
+https://wowzaprod225-i.akamaihd.net/hls/live/1006381/4e0894f2/playlist.m3u8
+#EXTINF:-1,ptv sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/playlist.m3u8
+#EXTINF:-1,ptv home
+https://wowzaprod225-i.akamaihd.net/hls/live/1006381/40827e32/playlist.m3u8
+#EXTINF:-1,ptv wolrd
+https://wowzaprod225-i.akamaihd.net/hls/live/1006381/af34e533/playlist.m3u8
+#EXTINF:-1,92 news pak
+https://92news.vdn.dstreamone.net/92newshd/92hdabr/playlist_dvr.m3u8
+#EXTINF:-1,express news pak
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
+#EXTINF:-1,dunya news pak
+https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/playlist.m3u8
+#EXTINF:-1,HUM NEWS LIVE
+https://youtu.be/9Pp0dRHJp6g
+#EXTINF:-1,Abbtakk 
+https://youtu.be/Rk1jXuRVxdA
+#EXTINF:-1,LIVE: BOL NEWS 
+https://youtu.be/8kvL7neVY20
+#EXTINF:-1,Aaj News Live
+https://youtu.be/iJ_z520N3E4
+#EXTINF:-1,Neo News Live
+https://youtu.be/c0F9RkhmKZU
+#EXTINF:-1,Madani Channel
+https://youtu.be/8maAKXPmTEw
+#EXTINF:-1,peace tv urdu
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
 #EXTINF:-1,ary news
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 https://live4nginx.zedflix.pk/hls/bolnewsweb_240p.m3u8
