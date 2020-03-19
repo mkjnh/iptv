@@ -2,38 +2,16 @@
  
  
 #EXTINF:-1,iqra bangla tv
- 61 
- 
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
- 62 
- 
 #EXTINF:-1,BanglaVision
- 63 
- 
 https://youtu.be/uhWYZadrN3o
- 64 
- 
 #EXTINF:-1,Rtv Live
- 65 
- 
 https://youtu.be/w2zHyIbzYUo
- 66 
- 
 #EXTINF:-1,NTV Bangla
- 67 
- 
 https://youtu.be/cD8zu0gOSsc
- 68 
- 
 #EXTINF:-1,Jamuna TV LIVE 
- 69 
- 
-https://youtu.be/cTYc01ZojBk
- 70 
- 
+https://youtu.be/cTYc01Zoj
 #EXTINF:-1,SOMOY TV LIVE 
- 71 
- 
 https://youtu.be/KgiwN7ddb2U
 #EXTINF:-1,	• GTV HD			
 http://109.169.56.170/hls/gtv.m3u8				
@@ -44,15 +22,9 @@ http://109.169.56.170/hls/zeebanglahd.m3u8
 #EXTINF:-1,	• ZEE BANGLA CINEMA			
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_160/index.m3u8				
 #EXTINF:-1,	• ZEE BANGLA CINEMA			
-http://109.169.56.170/hls/banglacinema.m3u8				
-				
-			
+http://109.169.56.170/hls/banglacinema.m3u8							
 #EXTINF:-1,	• SONY AATH			
-https://streamer-1.toffeelive.com/live/sony_aath_160/index.m3u8				
-				
-			
-				
-		
+https://streamer-1.toffeelive.com/live/sony_aath_160/index.m3u8						
 #EXTINF:-1,	• MAASRANGA TV			
 http://109.169.56.170/hls/maasranga.m3u8				
 #EXTINF:-1,	• NTV			
