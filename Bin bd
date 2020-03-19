@@ -1,4 +1,59 @@
-
+#EXTINF:-1,	• GTV HD			
+http://109.169.56.170/hls/gtv.m3u8				
+#EXTINF:-1,	• ZEE BANGLA			
+https://streamer-1.toffeelive.com/live/zee_bangla_160/index.m3u8				
+#EXTINF:-1,	• ZEE BANGLA			
+http://109.169.56.170/hls/zeebanglahd.m3u8				
+#EXTINF:-1,	• ZEE BANGLA CINEMA			
+https://streamer-1.toffeelive.com/live/zee_bangla_cinema_160/index.m3u8				
+#EXTINF:-1,	• ZEE BANGLA CINEMA			
+http://109.169.56.170/hls/banglacinema.m3u8				
+				
+			
+#EXTINF:-1,	• SONY AATH			
+https://streamer-1.toffeelive.com/live/sony_aath_160/index.m3u8				
+				
+			
+				
+		
+#EXTINF:-1,	• MAASRANGA TV			
+http://109.169.56.170/hls/maasranga.m3u8				
+#EXTINF:-1,	• NTV			
+http://109.169.56.170/hls/ntv.m3u8				
+#EXTINF:-1,	• RTV			
+http://109.169.56.170/hls/rtv.m3u8				
+#EXTINF:-1,	• ATN BANGLA			
+http://109.169.56.170/hls/atnbangla.m3u8				
+#EXTINF:-1,	• ATN NEWS			
+http://109.169.56.170/hls/atnnews.m3u8				
+#EXTINF:-1,	• NEWS 24			
+http://109.169.56.170/hls/news24.m3u8				
+#EXTINF:-1,	• BTV WORLD			
+http://109.169.56.170/hls/btvworld.m3u8				
+#EXTINF:-1,	• BANGLA VISION			
+http://109.169.56.170/hls/banglavision.m3u8				
+#EXTINF:-1,	• GAAN BANGLA			
+http://109.169.56.170/hls/gaanbangla.m3u8				
+#EXTINF:-1,	• MOVIE BANGLA			
+http://109.169.56.170/hls/moviebangla.m3u8				
+#EXTINF:-1,	• ASIAN TV			
+http://109.169.56.170/hls/asiantv.m3u8				
+#EXTINF:-1,	• BIJOY TV			
+http://109.169.56.170/hls/bijoytv.m3u8				
+#EXTINF:-1,	• CHANNEL 24			
+http://109.169.56.170/hls/channel24.m3u8				
+#EXTINF:-1,	• DBC NEWS			
+http://109.169.56.170/hls/dbcnews.m3u8				
+#EXTINF:-1,	• INDEPENDENT TV			
+http://109.169.56.170/hls/independent.m3u8				
+#EXTINF:-1,	• JAMUNA TV			
+http://109.169.56.170/hls/jamunatv.m3u8				
+#EXTINF:-1,	• MOHONA TV			
+http://109.169.56.170/hls/mohonatv.m3u8				
+#EXTINF:-1,	• MY TV			
+http://109.169.56.170/hls/mytv.m3u8				
+#EXTINF:-1,	• SA TV			
+http://109.169.56.170/hls/satv.m3u8				
 
 #EXTINF:-1, SONY MAX																	
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne																	
@@ -267,61 +322,6 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmar.smil/index.m3u8
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8						
 
 
-(Bangladesh)
-#EXTINF:-1,Gazi Tv
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Maasranga
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1,Asian TV
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1,ATN Bangla
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1,ATN News
-https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1,Banglavision TV
-http://109.169.56.170/hls/banglavision.m3u8
-#EXTINF:-1,boishakhi
-https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1,BTV World
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1,Channel 9
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1,Channel 24
-https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1,Channel I
-http://128.199.212.160/channelt1/1080/index.m3u8
-#EXTINF:-1,DBC News
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1,Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1,Desh TV
-https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1,Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1,Ekushey TV
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1,Independent TV
-https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1,Jamuna TV
-http://109.169.56.170/hls/jamunatv.m3u8
-#EXTINF:-1,NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1,Nagorik TV
-https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1,RTV
-https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1,SA TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1,Somoy News
-https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1,Colors Bangla
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Star Jalsha
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1,Star Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 <Pakistan>
 
 #EXTINF:-1,"ARY NEWS LIVE 
