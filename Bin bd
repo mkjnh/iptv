@@ -3,16 +3,8 @@
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,iqra bangla tv
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
-#EXTINF:-1,BanglaVision
-https://youtu.be/uhWYZadrN3o
-#EXTINF:-1,Rtv Live
-https://youtu.be/w2zHyIbzYUo
-#EXTINF:-1,NTV Bangla
-https://youtu.be/cD8zu0gOSsc
 #EXTINF:-1,Jamuna TV LIVE 
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,SOMOY TV LIVE 
-https://youtu.be/KgiwN7ddb2U
 #EXTINF:-1,	• GTV HD			
 http://109.169.56.170/hls/gtv.m3u8				
 #EXTINF:-1,	• ZEE BANGLA			
@@ -333,8 +325,7 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
 
 <Pakistan>
 
-#EXTINF:-1,"ARY NEWS LIVE 
-https://youtu.be/lDMWKVbMc9I
+
 #EXTINF:-1,art zindagi
 https://stream.arylive.com/ZindagiLive/index.m3u8
 #EXTINF:-1,art Q tv
@@ -357,18 +348,6 @@ https://92news.vdn.dstreamone.net/92newshd/92hdabr/playlist_dvr.m3u8
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
 #EXTINF:-1,dunya news pak
 https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/playlist.m3u8
-#EXTINF:-1,HUM NEWS LIVE
-https://youtu.be/9Pp0dRHJp6g
-#EXTINF:-1,Abbtakk 
-https://youtu.be/Rk1jXuRVxdA
-#EXTINF:-1,LIVE: BOL NEWS 
-https://youtu.be/8kvL7neVY20
-#EXTINF:-1,Aaj News Live
-https://youtu.be/iJ_z520N3E4
-#EXTINF:-1,Neo News Live
-https://youtu.be/c0F9RkhmKZU
-#EXTINF:-1,Madani Channel
-https://youtu.be/8maAKXPmTEw
 #EXTINF:-1,peace tv urdu
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
 
