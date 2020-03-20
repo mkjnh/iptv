@@ -507,6 +507,18 @@ http://tv.b4ucast.me/tv/0N6YieAVfX20190929/chunklist_w1706728721_tkaGxzZW5kdGltZ
 
 (Malabari)
 
+#EXTINF:-1 group-title="malayalam",safari
+https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/fc1e82b9a18586b50eb40c3867a61bc9.sdp/playlist.m3u8
+#EXTINF:-1 group-title="malayalam",jeveen
+https://5d00db0e0fcd5.streamlock.net/7644/7644/playlist.m3u8
+#EXTINF:-1 group-title="malayalam",kaumud
+https://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="malayalam", mathrubhumi news
+https://bcovlive-a.akamaihd.net/35edd933e5594087ad11a41eb0c9e77c/ap-southeast-1/5742227023001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="malayalam",news18kerala
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/master.m3u8?hdnea=st=1584707768~exp=1584743768~acl=/*~hmac=cbc02e065c6d7e07b0d878772e3fdcbe91817529f39f816989ff875c7ef6fdfe
+#EXTINF:-1 group-title="malayalam",monorama
+https://bcovlive-a.akamaihd.net/40e4935cb52849c6bbbe426a6c1df223/ap-southeast-1/5574321162001/4aa9851782f946b3a4b894f33096d044/playlist_ssaiM.m3u8
 #EXTINF:-1,Asianet news
 https://vidhttps.r.worldssl.net/asianet-origin/liveabr/playlist.m3u8													
 #EXTINF:-1, acv plus								
