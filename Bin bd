@@ -469,37 +469,37 @@ http://stream.tapmad.com:1935/pitvlive2/pushto13_240p/media.m3u8
 
 
 (Sports)
-#EXTINF:-1,LIVE CRICKET
+#EXTINF:-1,group-title="sports",LIVE CRICKET
 http://nxtsports.tk/api/yupp/IndvsBan.m3u8
-#EXTINF:-1,ten 2
+#EXTINF:-1,group-title="sports",ten 2
 http://163.172.85.133:8080/TenS/1/index.m3u8
-#EXTINF:-1, TEN 3
+#EXTINF:-1, group-title="sports",TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1,TEN 1
+#EXTINF:-1,group-title="sports",TEN 1
 http://163.172.85.133:8080/TenS/2/index.m3u8
-#EXTINF:-1, star sports 																												
+#EXTINF:-1, group-title="sports",star sports 																												
 http://68.183.92.29:1935/live/star1/playlist.m3u8													
-#EXTINF:-1,star sports 2													
+#EXTINF:-1,group-title="sports",star sports 2													
 http://68.183.92.29:1935/live/star2/playlist.m3u8																																																																									
-#EXTINF:-1,hls													
+#EXTINF:-1,group-title="sports",hls													
 http://212.47.252.54/hls/stream.m3u8													
-#EXTINF:-1,D sports													
+#EXTINF:-1,group-title="sports",D sports													
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8													
-#EXTINF:-1,gtv													
+#EXTINF:-1,group-title="sports",gtv													
 http://109.169.56.170/hls/gtv.m3u8													
-#EXTINF:-1, maasranga													
+#EXTINF:-1,group-title="sports", maasranga													
 http://109.169.56.170/hls/maasranga.m3u8													
-#EXTINF:-1,Sony six													
+#EXTINF:-1,group-title="sports",Sony six													
 http://109.169.56.170/hls/sonysix.m3u8													
-#EXTINF:-1,ten 1													
+#EXTINF:-1,group-title="sports",ten 1													
 http://163.172.85.133:8080/TenS/1/index.m3u8													
-#EXTINF:-1,ten3													
+#EXTINF:-1,group-title="sports",ten3													
 http://163.172.85.133:8080/TenS/3/index.m3u8													
-#EXTINF:-1,sky sports													
+#EXTINF:-1,group-title="sports",sky sports													
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8													
-#EXTINF:-1,ten sports													
+#EXTINF:-1,group-title="sports",ten sports													
 http://tv.b4ucast.me/tv/BI2drTR2fM20190929/chunklist_w1911832417_tkaGxzZW5kdGltZT0xNTgzNDkwODQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9djc0MWxZNnBxMFR4Zmk2QU9MSEN5VDExN05tM0g5dmEzOUlfNERQX0l5dz0=.m3u8													
-#EXTINF:-1,ptv sports													
+#EXTINF:-1,group-title="sports",ptv sports													
 http://tv.b4ucast.me/tv/0N6YieAVfX20190929/chunklist_w1706728721_tkaGxzZW5kdGltZT0xNTgzNDkxMTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9LWJrZEJObXFycDU1bWdEcC15cjR1aWZ3eDlBYWhsemRheUFTMGxveV9kST0=.m3u8
 
 (Malabari)
@@ -552,51 +552,51 @@ https://bcovlive-a.akamaihd.net/35edd933e5594087ad11a41eb0c9e77c/ap-southeast-1/
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/master.m3u8?hdnea=st=1584707768~exp=1584743768~acl=/*~hmac=cbc02e065c6d7e07b0d878772e3fdcbe91817529f39f816989ff875c7ef6fdfe
 #EXTINF:-1 group-title="malayalam",monorama
 https://bcovlive-a.akamaihd.net/40e4935cb52849c6bbbe426a6c1df223/ap-southeast-1/5574321162001/4aa9851782f946b3a4b894f33096d044/playlist_ssaiM.m3u8
-#EXTINF:-1,Asianet news
+#EXTINF:-1,group-title="malayalam",Asianet news
 https://vidhttps.r.worldssl.net/asianet-origin/liveabr/playlist.m3u8													
-#EXTINF:-1, acv plus								
+#EXTINF:-1,group-title="malayalam", acv plus								
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/chunklist_b996000.m3u8?nimblesessionid=227456								
-#EXTINF:-1, acv								
+#EXTINF:-1,group-title="malayalam", acv								
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8								
-#EXTINF:-1, acv news								
+#EXTINF:-1,group-title="malayalam", acv news								
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/chunklist_b996000.m3u8?nimblesessionid=228424								
-#EXTINF:-1, acv ausub								
+#EXTINF:-1,group-title="malayalam", acv ausub								
 https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/chunklist_b996000.m3u8?nimblesessionid=228716								
-#EXTINF:-1, middleeast								
+#EXTINF:-1,group-title="malayalam", middleeast								
 http://150.242.21.2/middleeast.ts?bandwidth=956&chunk=5628163								
-#EXTINF:-1, amrita								
+#EXTINF:-1,group-title="malayalam", amrita								
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/Stream(01)/index.m3u8								
-#EXTINF:-1, Keralia								
+#EXTINF:-1, group-title="malayalam",Keralia								
 http://cdn.asianetmobiletvplus.com/channels/96272aad4b5ada1d8fd587e1b1dd1f9c.smil/playlist.m3u8								
-#EXTINF:-1, mazhavil								
+#EXTINF:-1,group-title="malayalam", mazhavil								
 http://cdn.asianetmobiletvplus.com/channels/mazhavil_aoylhoymbydtgthnottekwcaadirrwds/playlist.m3u8								
-#EXTINF:-1, kaumudi tv								
+#EXTINF:-1, group-title="malayalam",kaumudi tv								
 http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8								
-#EXTINF:-1, we 								
+#EXTINF:-1, group-title="malayalam",we 								
 http://103.199.161.254/Content/we/Live/Channel(We)/Stream(02)/index.m3u8								
-#EXTINF:-1, jeevan								
+#EXTINF:-1, group-title="malayalam",jeevan								
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/Stream(01)/index.m3u8								
 flowers								
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(02)/index.m3u8								
-#EXTINF:-1, kappatv								
+#EXTINF:-1,group-title="malayalam", kappatv								
 http://cdn.asianetmobiletvplus.com/channels/kappatv_wsyxggijkbpbogyztlaabikcteidmllw/playlist.m3u8								
-#EXTINF:-1, jaihind								
+#EXTINF:-1,group-title="malayalam", jaihind								
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/Stream(01)/Segment(15829862177310000).ts								
-#EXTINF:-1, ddmalayalam								
+#EXTINF:-1, group-title="malayalam",ddmalayalam								
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(01)/index.m3u8								
-#EXTINF:-1, mangalam								
+#EXTINF:-1, group-title="malayalam",mangalam								
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/Stream(02)/Segment(15829919972020000).ts								
-#EXTINF:-1, asianet news								
+#EXTINF:-1, group-title="malayalam",asianet news								
 http://103.199.161.254/Content/asianetnews/Live/Channel%28Asianetnews%29/index.m3u8								
-#EXTINF:-1, keralia news								
+#EXTINF:-1,group-title="malayalam", keralia news								
 http://103.199.161.254:80/Content/people/Live/Channel%28People%29/Stream(01)/index.m3u8								
-#EXTINF:-1, Manorama news								
+#EXTINF:-1, group-title="malayalam",Manorama news								
 http://103.199.161.254:80/Content/manoramanews/Live/Channel%28ManoramaNews%29/Stream(01)/index.m3u8								
-#EXTINF:-1, mathrubhumi news								
+#EXTINF:-1, group-title="malayalam",mathrubhumi news								
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel%28Mathrubhuminews%29/Stream(01)/Segment(15829936894370000).ts								
-#EXTINF:-1, mediaone								
+#EXTINF:-1, group-title="malayalam",mediaone								
 http://103.199.161.254/Content/mediaone/Live/Channel%28MediaOne%29/Stream(01)/Segment(15829940012000000).ts								
-#EXTINF:-1, reporter 								
+#EXTINF:-1, group-title="malayalam",reporter 								
 http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8								
 
 #EXTM3U
@@ -614,17 +614,17 @@ https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 #EXTINF:-1 group-title="News",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1 group-title="News",ACV
+#EXTINF:-1 group-title="malayalam",ACV
 https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
-#EXTINF:-1 group-title="News",ACV
+#EXTINF:-1 group-title="malayalam",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",ACV Jukebox
+#EXTINF:-1 group-title="malayalam",ACV Jukebox
 https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
-#EXTINF:-1 group-title="News",ACV News
+#EXTINF:-1 group-title="malayalam",ACV News
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",ACV Utsav
+#EXTINF:-1 group-title="malayalam",ACV Utsav
 https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",ACV Utsav Plus
+#EXTINF:-1 group-title="malayalam",ACV Utsav Plus
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",Akaal TV
 http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
@@ -638,19 +638,19 @@ http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
 http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Amrita TV
+#EXTINF:-1 group-title="malayalam",Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Analai Express HD
+#EXTINF:-1 group-title="entertainmnt",Analai Express HD
 http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Anand TV
 https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Anand TV
 https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/playlist.m3u8
-#EXTINF:-1 group-title="News",Asianet News
+#EXTINF:-1 group-title="malayalam",Asianet News
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Asianet Utsav
 https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Asianet Utsav Plus
+#EXTINF:-1 group-title="malayalam",Asianet Utsav Plus
 https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
 #EXTINF:-1 group-title="News",Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
