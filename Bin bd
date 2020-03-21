@@ -17,10 +17,9 @@ http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoae
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 group-title="bangla",madnitv bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-
-#EXTINF:-1, GTV HD			
+#EXTINF:-1, group-title="bangla",GTV HD			
 http://109.169.56.170/hls/gtv.m3u8				
-#EXTINF:-1, ZEE BANGLA			
+#EXTINF:-1, group-title="bangla",ZEE BANGLA			
 https://streamer-1.toffeelive.com/live/zee_bangla_160/index.m3u8				
 #EXTINF:-1,group-title="bangla",ZEE BANGLA			
 http://109.169.56.170/hls/zeebanglahd.m3u8				
@@ -30,9 +29,9 @@ https://streamer-1.toffeelive.com/live/zee_bangla_cinema_160/index.m3u8
 http://109.169.56.170/hls/banglacinema.m3u8							
 #EXTINF:-1,group-title="bangla",SONY AATH			
 https://streamer-1.toffeelive.com/live/sony_aath_160/index.m3u8						
-#EXTINF:-1,MAASRANGA TV			
+#EXTINF:-1,group-title="bangla",MAASRANGA TV			
 http://109.169.56.170/hls/maasranga.m3u8				
-#EXTINF:-1,NTV			
+#EXTINF:-1,group-title="bangla",NTV			
 http://109.169.56.170/hls/ntv.m3u8				
 #EXTINF:-1,group-title="bangla",RTV			
 http://109.169.56.170/hls/rtv.m3u8				
