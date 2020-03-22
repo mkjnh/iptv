@@ -1067,3 +1067,47 @@ http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 http://mn-nl.mncdn.com/ifilm/smil:ifilmar.smil/index.m3u8						
 #EXTINF:-1,group-title="English movies",	IFLM ENGLISH					
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8						
+
+
+Islamic
+
+"#EXTINF:-1 group-title=""Islamic"","	LIVE MAKKAH					
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	LIVE MADINAH					
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	MADNI CHANNEL HD					
+https://svs.itworkscdn.net/madanitvurdulive/mdtvu.smil/playlist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	MADNI CHANNEL ENGLISH					
+https://svs.itworkscdn.net/madanitvenlive/mdtve.smil/playlist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	MADNI CHANNEL BANGLA					
+https://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	MAKKAH LIVE					
+https://weblive.goonj.pk/makkahweb_480p/index.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	MADINA LIVE					
+https://weblive.goonj.pk/madinaweb_480p/index.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	PEACE TV URDU					
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	PEACE TV BANGLA					
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	PEACE TV ENGLISH					
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SDq/chunklist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	ISLAM CHANNEL URDU					
+https://59299831b66d0.streamlock.net/urdu-live/urdu/chunklist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	ISLAM CHANNEL ENGLISH					
+https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	WESAL TV ARABIC					
+http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"","	EMAN CHANNEL					
+http://dcunilive3-lh.akamaihd.net/i/dclive_1@317556/index_150_av-p.m3u8?sd=6&rebase=on						
+"#EXTINF:-1 group-title=""Islamic"","	GUIDE US					
+http://stream.streamislam.com:8080/streamer/live/index.m3u8						
+"#EXTINF:-1 group-title=""Islamic"",Noor tv"						
+https://ls1.serverdump.com/stream3.m3u8						
+"#EXTINF:-1 group-title=""Islamic"",Islam tv Urdu"						
+https://59299831b66d0.streamlock.net/urdu-live/urdu/playlist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"",Madnitv"						
+https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"",Pecetv urdu"						
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDh/chunklist.m3u8						
+"#EXTINF:-1 group-title=""Islamic"",ary Qtv"						
+https://stream.arylive.com/QtvLive/index.m3u8						
