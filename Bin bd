@@ -499,17 +499,17 @@ http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
 #EXTM3U
 #EXTINF:-1,5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 group-title="Music",7S Music
+#EXTINF:-1 group-title="Hindi",7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="Music",ABP Ananda
+#EXTINF:-1 group-title="Hindi",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 group-title="News",ABP Asmita
+#EXTINF:-1 group-title="Hindi",ABP Asmita
 http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 group-title="News",ABP Asmita
+#EXTINF:-1 group-title="Hindi",ABP Asmita
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
-#EXTINF:-1 group-title="News",ABP Majha
+#EXTINF:-1 group-title="Hindi",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
-#EXTINF:-1 group-title="News",ABP News
+#EXTINF:-1 group-title="Hindi",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 group-title="malayalam",ACV
 https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
@@ -523,25 +523,25 @@ https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.
 https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
 #EXTINF:-1 group-title="malayalam",ACV Utsav Plus
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",Akaal TV
+#EXTINF:-1 group-title="Hindi",Akaal TV
 http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",Akaram Kidz
+#EXTINF:-1 group-title="Hindi",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 group-title="Kids",Akaram Kidz
+#EXTINF:-1 group-title="Hindi",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Akaram TV
+#EXTINF:-1 group-title="Hindi",Akaram TV
 http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
-#EXTINF:-1 group-title="Kids",Akaram TV
+#EXTINF:-1 group-title="Hindi",Akaram TV
 http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Amar Ujala
+#EXTINF:-1 group-title="Hindi",Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 group-title="malayalam",Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 group-title="entertainmnt",Analai Express HD
+#EXTINF:-1 group-title="Hindi",Analai Express HD
 http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Anand TV
+#EXTINF:-1 group-title="Hindi",Anand TV
 https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Anand TV
+#EXTINF:-1 group-title="Hindi",Anand TV
 https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/playlist.m3u8
 #EXTINF:-1 group-title="malayalam",Asianet News
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
