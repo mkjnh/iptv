@@ -549,51 +549,51 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
 #EXTINF:-1 group-title="malayalam",Asianet Utsav Plus
 https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
-#EXTINF:-1 group-title="News",Assam Talks
+#EXTINF:-1 group-title="Hindi",Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Ayush TV
 http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 group-title="Music",B4U Kadak
+#EXTINF:-1 group-title="Hindi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 group-title="Movies",B4U Movies
+#EXTINF:-1 group-title="Hindi",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:-1 group-title="Movies",B4U Movies
+#EXTINF:-1 group-title="Hindi",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="Music",B4U Music
+#EXTINF:-1 group-title="Hindi",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 group-title="Music",B4U Music
+#EXTINF:-1 group-title="Hindi",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="Movies",B4U Plus
+#EXTINF:-1 group-title="Hindi",B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 group-title="News",BBC World News
+#EXTINF:-1 group-title="Hindi",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="Movies",Bhakti Sagar
+#EXTINF:-1 group-title="Hindi",Bhakti Sagar
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
-#EXTINF:-1 group-title="Movies",Bhakti Sagar
+#EXTINF:-1 group-title="Hindi",Bhakti Sagar
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
-#EXTINF:-1 group-title="Movies",Bollywood Classic
+#EXTINF:-1 group-title="Hindi",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="Movies",Bollywood Now
+#EXTINF:-1 group-title="Hindi",Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="Movies",Boogle Bollywood
+#EXTINF:-1 group-title="Hindi",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 group-title="Movies",Boss TV
+#EXTINF:-1 group-title="Hindi",Boss TV
 http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Channel D
+#EXTINF:-1 group-title="Hindi",Channel D
 http://37.220.111.189:1935/live/Studio_web/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Channel Y
+#EXTINF:-1 group-title="Hindi",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Cine Voice
+#EXTINF:-1 group-title="cHindi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-#EXTINF:-1 group-title="Movies",Cine Voice
+#EXTINF:-1 group-title="Hindi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1 group-title="Movies",Cinema TV
+#EXTINF:-1 group-title="Hindi",Cinema TV
 https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Classics Marathi
+#EXTINF:-1 group-title="Hindi",Classics Marathi
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Classics Tamil
+#EXTINF:-1 group-title="Hindi",Classics Tamil
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Classics Telugu
+#EXTINF:-1 group-title="Hindi",Classics Telugu
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Business",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
