@@ -821,7 +821,7 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 group-title="Hindi",Sikh Channel
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
-#EXTINF:-1 group-title="Hindi",Sony ESPN
+#EXTINF:-1 group-title="sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 group-title="Hindi",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_576/index.m3u8
@@ -839,11 +839,11 @@ https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
 #EXTINF:-1 group-title="sports",Sony Ten 2
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
+#EXTINF:-1 group-title="sports",Sony Ten 2 HD
 https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
-#EXTINF:-1 group-title="Sports",Sony TEN 3
+#EXTINF:-1 group-title="sports",Sony TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 group-title="Hindi",Sony Ten 3
+#EXTINF:-1 group-title="sports",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Hindi",Sony TV
 https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
