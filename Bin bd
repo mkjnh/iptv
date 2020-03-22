@@ -1078,7 +1078,7 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 https://svs.itworkscdn.net/madanitvurdulive/mdtvu.smil/playlist.m3u8						
 "#EXTINF:-1 group-title="Islamic",	MADNI CHANNEL ENGLISH					
 https://svs.itworkscdn.net/madanitvenlive/mdtve.smil/playlist.m3u8						
-"#EXTINF:-1 group-title=""Islamic"","	MADNI CHANNEL BANGLA					
+"#EXTINF:-1 group-title="Islamic",	MADNI CHANNEL BANGLA					
 https://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8						
 "#EXTINF:-1 group-title="Islamic",	MAKKAH LIVE					
 https://weblive.goonj.pk/makkahweb_480p/index.m3u8						
