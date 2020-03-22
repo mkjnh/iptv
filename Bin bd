@@ -271,201 +271,98 @@ https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
 
 
 (GEO tv )
-#EXTINF:-1,Nat Geo 				
+#EXTINF:-1,group-title="Nat Geo",Nat Geo 				
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8				
-#EXTINF:-1,Nat Geo wild				
+#EXTINF:-1,group-title="Nat Geo",Nat Geo wild				
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8				
-#EXTINF:-1,Nat Geo people				
+#EXTINF:-1,group-title="Nat Geo",Nat Geo people				
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8				
-#EXTINF:-1, history				
+#EXTINF:-1,group-title="Nat Geo", history				
 http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8							
-#EXTINF:-1,Animal Planet
+#EXTINF:-1,group-title="Nat Geo",Animal Planet
 http://streamer.multitvsolution.in//live//APHDHindi-a//p4.m3u8
-#EXTINF:-1,Discovery Hindi
+#EXTINF:-1,group-title="Nat Geo",Discovery Hindi
 http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
-#EXTINF:-1,Discovery Science
+#EXTINF:-1,group-title="Nat Geo",Discovery Science
 http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
-#EXTINF:-1,History Tv
+#EXTINF:-1,group-title="Nat Geo",History Tv
 https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
-#EXTINF:-1,banglatv aeo
+#EXTINF:-1,group-title="Nat Geo",banglatv aeo
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1,NetGeo People
+#EXTINF:-1,group-title="Nat Geo",NetGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 (English)
-#EXTINF:-1,	ORBIT MOVIES					
+#EXTINF:-1,group-title="English movies",	ORBIT MOVIES					
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8						
-#EXTINF:-1,	STAR MOVIES					
+#EXTINF:-1,group-title="English movies",	STAR MOVIES					
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8						
-#EXTINF:-1,	STAR WORLD HD					
+#EXTINF:-1,group-title="English movies",	STAR WORLD HD					
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8						
-#EXTINF:-1,	CELESTIAL MOVIES					
+#EXTINF:-1,group-title="English movies",	CELESTIAL MOVIES					
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8						
-#EXTINF:-1,	KIX					
+#EXTINF:-1,group-title="English movies",	KIX					
 http://210.210.155.35/uq2663/h/h07/index.m3u8						
-#EXTINF:-1,	CINEMA 1					
+#EXTINF:-1,group-title="English movies",	CINEMA 1					
 http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8						
-#EXTINF:-1,	MBC MAX					
+#EXTINF:-1,group-title="English movies",	MBC MAX					
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8						
-#EXTINF:-1,	MBC ACTION					
+#EXTINF:-1,group-title="English movies",	MBC ACTION					
 http://us.cdniptv.com/MBCACTIONHD.m3u8						
-#EXTINF:-1,	MBC ACTION					
+#EXTINF:-1,group-title="English movies",	MBC ACTION					
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8						
-#EXTINF:-1,	MBC2					
+#EXTINF:-1,group-title="English movies",	MBC2					
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8						
-#EXTINF:-1,	ZDF					
+#EXTINF:-1,group-title="English movies",	ZDF					
 http://us.cdniptv.com/zdf.m3u8						
-#EXTINF:-1,	KIX HD					
+#EXTINF:-1,group-title="English movies",	KIX HD					
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8						
-#EXTINF:-1,	THRILL					
+#EXTINF:-1,group-title="English movies",	THRILL					
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8						
-#EXTINF:-1,	MY CINEMA					
+#EXTINF:-1,group-title="English movies",	MY CINEMA					
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8						
-#EXTINF:-1,	DIVA					
+#EXTINF:-1,group-title="English movies",	DIVA					
 http://210.210.155.35/uq2663/h/h11/index.m3u8						
-#EXTINF:-1,	CINEMA HITS					
+#EXTINF:-1,group-title="English movies",	CINEMA HITS					
 http://210.210.155.35/uq2663/h/h37/index2.m3u8						
-#EXTINF:-1,	FIRST MOVIES					
+#EXTINF:-1,group-title="English movies",	FIRST MOVIES					
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8						
-#EXTINF:-1,	DMAX					
+#EXTINF:-1,group-title="English movies",	DMAX					
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8						
-#EXTINF:-1,	IFILM ARABI					
+#EXTINF:-1,group-title="English movies",	IFILM ARABI					
 http://mn-nl.mncdn.com/ifilm/smil:ifilmar.smil/index.m3u8						
-#EXTINF:-1,	IFLM ENGLISH					
+#EXTINF:-1,group-title="English movies",	IFLM ENGLISH					
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8						
 
 
 <Pakistan>
 
 
-#EXTINF:-1,art zindagi
+#EXTINF:-1,group-title="Pakistan",ary zindagi
 https://stream.arylive.com/ZindagiLive/index.m3u8
-#EXTINF:-1,art Q tv
+#EXTINF:-1,group-title="Pakistan",ary Q tv
 https://stream.arylive.com/QtvLive/index.m3u8
-#EXTINF:-1,ary musik
+#EXTINF:-1,group-title="Pakistan",ary musik
 https://stream.arylive.com/MusikLive/index.m3u8
-#EXTINF:-1,GEO news
+#EXTINF:-1,group-title="Pakistan",GEO news
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp3/chunks_dvr.m3u8
-#EXTINF:-1,ptv news
+#EXTINF:-1,group-title="Pakistan",ptv news
 https://wowzaprod225-i.akamaihd.net/hls/live/1006381/4e0894f2/playlist.m3u8
-#EXTINF:-1,ptv sports
+#EXTINF:-1,group-title="Pakistan",ptv sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/playlist.m3u8
-#EXTINF:-1,ptv home
+#EXTINF:-1,group-title="Pakistan",ptv home
 https://wowzaprod225-i.akamaihd.net/hls/live/1006381/40827e32/playlist.m3u8
-#EXTINF:-1,ptv wolrd
+#EXTINF:-1,group-title="Pakistan",ptv wolrd
 https://wowzaprod225-i.akamaihd.net/hls/live/1006381/af34e533/playlist.m3u8
-#EXTINF:-1,92 news pak
+#EXTINF:-1,group-title="Pakistan",92 news pak
 https://92news.vdn.dstreamone.net/92newshd/92hdabr/playlist_dvr.m3u8
-#EXTINF:-1,express news pak
+#EXTINF:-1,group-title="Pakistan",express news pak
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
-#EXTINF:-1,dunya news pak
+#EXTINF:-1,group-title="Pakistan",dunya news pak
 https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/playlist.m3u8
-#EXTINF:-1,peace tv urdu
+#EXTINF:-1,group-title="Pakistan",peace tv urdu
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1,ary news
-https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-https://live4nginx.zedflix.pk/hls/bolnewsweb_240p.m3u8
-#EXTINF:-1,public news
-https://live4nginx.zedflix.pk/hls/publicnewsweb_240p.m3u8
-#EXTINF:-1,aapnews
-https://live4nginx.zedflix.pk/hls/aapnewsweb_360p.m3u8
-#EXTINF:-1,expressnewe
-https://live4nginx.zedflix.pk/hls/expressnewsweb_360p.m3u8
-#EXTINF:-1,such tv
-https://live4nginx2.zedflix.pk/hls/suchtvweb_240p.m3u8
-#EXTINF:-1,indus news
-https://live4nginx2.zedflix.pk/hls/indusnewsweb_240p.m3u8
-#EXTINF:-1, Geo news
-http://streamer61.eboundservices.com/geo/geonews_abr/geo/geonews_master_sub/chunks.m3u8
-#EXTINF:-1, GEO tezz
-https://streamer64.ebound.tv/geo/geotezz_abr/geo/geotezz_master/chunks.m3u8
-#EXTINF:-1,newsint abr
-http://158.69.229.30:8081/newsint_abr/livestream_abr/playlist.m3u8
-#EXTINF:-1,samaa news
-http://stream.tapmad.com:1935/pitvlive2/samaanews3_240p/media.m3u8
-#EXTINF:-news24
-http://stream.tapmad.com:1935/pitvlive2/channel243_240p/media.m3u8
-#EXTINF:-1, Dawn news
-http://stream.tapmad.com:1935/pitvlive2/dawnnews3_240p/chunklist.m3u8
-#EXTINF:-1,92 news
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
-#EXTINF:-1,kohenoortv
-https://streamer12.vdn.dstreamone.net/dsone/kohenoortv/chunks.m3u8
-#EXTINF:-1,tv one news
-http://stream.tapmad.com:1935/pitvlive2/tvonenews3_240p/media.m3u8
-#EXTINF:-1,lahor news
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/chunklist.m3u8
-#EXTINF:-1,neo news
-http://stream.tapmad.com:1935/pitvlive2/neo3_240p/chunklist.m3u8
-#EXTINF:-1,aaj news
-http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist.m3u8
-#EXTINF:-1,k21
-http://stream.tapmad.com:1935/pitvlive2/k213_240p/chunklist.m3u8
-#EXTINF:-1,metro
-http://stream.tapmad.com:1935/pitvlive2/metro3_240p/chunklist.m3u8
-#EXTINF:-1,city news
-http://stream.tapmad.com:1935/pitvlive2/city423_240p/chunklist.m3u8
-#EXTINF:-1,ptv nees
-http://stream.tapmad.com:1935/pitvlive2/ptvnews3_240p/chunklist.m3u8
-
-#EXTINF:-1,homraaz
-http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
-#EXTINF:-1,filmzia
-http://stream.tapmad.com:1935/pitvlive2/filmazia3/chunklist.m3u8
-#EXTINF:-1,filmazia
-http://stream.tapmad.com:1935/pitvlive2/filmworld3/chunklist.m3u8
-#EXTINF:-1, new
-http://45.77.90.56:8080/hls/mystream.m3u8
-#EXTINF:-1,new
-http://158.69.228.195:1935/digitalnew/myStream/chunklist.m3u8
-#EXTINF:-1,ary family
-http://95.211.211.168/live/aryfamily0071/playlist.m3u8
-#EXTINF:-1,ary Zindagi
-http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist.m3u8
-#EXTINF:-1,pakus tv
-https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1,tag tv
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1,saazowaz tv
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
-#EXTINF:-1,bol tv
-https://live4nginx.zedflix.pk/hls/bolentweb_240p.m3u8
-#EXTINF:-1,expresse
-https://live4nginx.zedflix.pk/hls/expressentweb_240p.m3u8
-#EXTINF:-1,atv
-http://stream.tapmad.com:1935/pitvlive2/atv3/chunklist.m3u8
-#EXTINF:-1,aplus tv
-https://live4nginx.zedflix.pk/hls/aplusweb_240p.m3u8
-#EXTINF:-1,humtv
-http://95.211.211.168/live/humtv0066/playlist.m3u8
-#EXTINF:-1,hum sitara
-http://stream.tapmad.com:1935/pitvlive2/sitaraynew3_240p/chunklist.m3u8
-#EXTINF:-1,tvone
-http://stream.tapmad.com:1935/pitvlive2/tvone3_240p/chunklist.m3u8
-#EXTINF:-1,plymax
-http://stream.tapmad.com:1935/pitvlive2/playmax3_240p/chunklist.m3u8
-#EXTINF:-1,ptv home
-http://stream.tapmad.com:1935/pitvlive2/ptvhome3_240p/chunklist.m3u8
-#EXTINF:-1,ptv global
-http://stream.tapmad.com:1935/pitvlive2/ptvglobal3_240p/chunklist.m3u8
-#EXTINF:-1,geo entretainment
-http://streamer64.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master_sub/chunks.m3u8
-http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/chunks.m3u8
-#EXTINF:-1,zindazi tv
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-#EXTINF:-1,ptv wrold
-http://stream.tapmad.com:1935/pitvlive2/ptvworld3_240p/chunklist.m3u8
-#EXTINF:-1,masala tv
-http://stream.tapmad.com:1935/pitvlive2/masalanew3/chunklist.m3u8
-#EXTINF:-1,healthtv
-http://stream.tapmad.com:1935/pitvlive2/healthtv3_240p/media.m3u8
-#EXTINF:-1, atv khabar
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?usertoken=f098051a-28ab-489f-8bfb-26df191617ec-1537439983120tmp
-#EXTINF:-1,k2
-http://stream.tapmad.com:1935/pitvlive2/k23_240p/media.m3u8
-#EXTINF:-1,pushto
-http://stream.tapmad.com:1935/pitvlive2/pushto13_240p/media.m3u8
 
 
 (Sports)
