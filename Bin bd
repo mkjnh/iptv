@@ -1100,13 +1100,13 @@ http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8
 http://dcunilive3-lh.akamaihd.net/i/dclive_1@317556/index_150_av-p.m3u8?sd=6&rebase=on						
 "#EXTINF:-1 group-title="Islamic",	GUIDE US					
 http://stream.streamislam.com:8080/streamer/live/index.m3u8						
-"#EXTINF:-1 group-title=""Islamic"",Noor tv"						
+"#EXTINF:-1 group-title="Islamic",Noor tv						
 https://ls1.serverdump.com/stream3.m3u8						
-"#EXTINF:-1 group-title="Islamic",Islam tv Urdu"						
+"#EXTINF:-1 group-title="Islamic",Islam tv Urdu						
 https://59299831b66d0.streamlock.net/urdu-live/urdu/playlist.m3u8						
-"#EXTINF:-1 group-title="Islamic",Madnitv"						
+"#EXTINF:-1 group-title="Islamic",Madnitv						
 https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8						
-"#EXTINF:-1 group-title="Islamic",Pecetv urdu"						
+"#EXTINF:-1 group-title="Islamic",Pecetv urdu						
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDh/chunklist.m3u8						
-"#EXTINF:-1 group-title="Islamic",ary Qtv"						
+"#EXTINF:-1 group-title="Islamic",ary Qtv						
 https://stream.arylive.com/QtvLive/index.m3u8						
