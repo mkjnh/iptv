@@ -545,13 +545,13 @@ https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/index.m3u8
 https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/playlist.m3u8
 #EXTINF:-1 group-title="malayalam",Asianet News
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Asianet Utsav
+#EXTINF:-1 group-title="malayalam",Asianet Utsav
 https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
 #EXTINF:-1 group-title="malayalam",Asianet Utsav Plus
 https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
 #EXTINF:-1 group-title="Hindi",Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle",Ayush TV
+#EXTINF:-1 group-title="Hindi",Ayush TV
 http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="Hindi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
