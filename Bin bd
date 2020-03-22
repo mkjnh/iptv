@@ -377,10 +377,10 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1,group-title="sports",TEN 1
 http://163.172.85.133:8080/TenS/2/index.m3u8
-#EXTINF:-1, group-title="sports",star sports 																												
-http://68.183.92.29:1935/live/star1/playlist.m3u8													
+#EXTINF:-1, group-title="sports",star sports1 																												
+http://109.169.56.170/hls/starsports1.m3u8?userAgent=													
 #EXTINF:-1,group-title="sports",star sports 2													
-http://68.183.92.29:1935/live/star2/playlist.m3u8																																																																									
+http://195.181.169.120/StarSports_Hd3/playlist.m3u8																																																																								
 #EXTINF:-1,group-title="sports",hls													
 http://212.47.252.54/hls/stream.m3u8													
 #EXTINF:-1,group-title="sports",D sports													
@@ -399,8 +399,8 @@ http://163.172.85.133:8080/TenS/3/index.m3u8
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8													
 #EXTINF:-1,group-title="sports",ten sports													
 http://tv.b4ucast.me/tv/BI2drTR2fM20190929/chunklist_w1911832417_tkaGxzZW5kdGltZT0xNTgzNDkwODQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9djc0MWxZNnBxMFR4Zmk2QU9MSEN5VDExN05tM0g5dmEzOUlfNERQX0l5dz0=.m3u8													
-#EXTINF:-1,group-title="sports",ptv sports													
-http://tv.b4ucast.me/tv/0N6YieAVfX20190929/chunklist_w1706728721_tkaGxzZW5kdGltZT0xNTgzNDkxMTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9LWJrZEJObXFycDU1bWdEcC15cjR1aWZ3eDlBYWhsemRheUFTMGxveV9kST0=.m3u8
+#EXTINF:-1,group-title="sports",ptv sports													bWdEcC15cjR1aWZ3eDlBYWhsemRheUFTMGxveV9kST0=.m3u8
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/playlist.m3u8
 
 (Malabari)
 group-title="malayalam",Amrita
