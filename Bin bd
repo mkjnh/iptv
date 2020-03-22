@@ -269,8 +269,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 #EXTINF:-1,group-title="Hindi",India news
 https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
 
+(Nat Geo)
 
-(GEO tv )
 #EXTINF:-1,group-title="Nat Geo",Nat Geo 				
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8				
 #EXTINF:-1,group-title="Nat Geo",Nat Geo wild				
@@ -291,6 +291,9 @@ https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,group-title="Nat Geo",NetGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+
+
 
 (English)
 #EXTINF:-1,group-title="English movies",	ORBIT MOVIES					
@@ -335,8 +338,8 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmar.smil/index.m3u8
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8						
 
 
-<Pakistan>
 
+(Pakistan)
 
 #EXTINF:-1,group-title="Pakistan",ary zindagi
 https://stream.arylive.com/ZindagiLive/index.m3u8
