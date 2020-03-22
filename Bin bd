@@ -583,7 +583,7 @@ http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
 http://37.220.111.189:1935/live/Studio_web/playlist.m3u8
 #EXTINF:-1 group-title="Hindi",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 group-title="cHindi",Cine Voice
+#EXTINF:-1 group-title="Hindi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
 #EXTINF:-1 group-title="Hindi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
