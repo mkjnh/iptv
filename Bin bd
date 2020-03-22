@@ -971,3 +971,99 @@ http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="Tamil",Vendharm TV
 http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
 ghribia
+
+(Nat Geo)
+
+#EXTINF:-1,group-title="Nat Geo",Nat Geo 				
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8				
+#EXTINF:-1,group-title="Nat Geo",Nat Geo wild				
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8				
+#EXTINF:-1,group-title="Nat Geo",Nat Geo people				
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8				
+#EXTINF:-1,group-title="Nat Geo", history				
+http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8							
+#EXTINF:-1,group-title="Nat Geo",Animal Planet
+http://streamer.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1,group-title="Nat Geo",Discovery Hindi
+http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+#EXTINF:-1,group-title="Nat Geo",Discovery Science
+http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+#EXTINF:-1,group-title="Nat Geo",History Tv
+https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
+#EXTINF:-1,group-title="Nat Geo",banglatv aeo
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1,group-title="Nat Geo",NetGeo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+
+(Pakistan)
+
+#EXTINF:-1,group-title="Pakistan",ary zindagi
+https://stream.arylive.com/ZindagiLive/index.m3u8
+#EXTINF:-1,group-title="Pakistan",ary Q tv
+https://stream.arylive.com/QtvLive/index.m3u8
+#EXTINF:-1,group-title="Pakistan",ary musik
+https://stream.arylive.com/MusikLive/index.m3u8
+#EXTINF:-1,group-title="Pakistan",GEO news
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp3/chunks_dvr.m3u8
+#EXTINF:-1,group-title="Pakistan",ptv news
+https://wowzaprod225-i.akamaihd.net/hls/live/1006381/4e0894f2/playlist.m3u8
+#EXTINF:-1,group-title="Pakistan",ptv sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/playlist.m3u8
+#EXTINF:-1,group-title="Pakistan",ptv home
+https://wowzaprod225-i.akamaihd.net/hls/live/1006381/40827e32/playlist.m3u8
+#EXTINF:-1,group-title="Pakistan",ptv wolrd
+https://wowzaprod225-i.akamaihd.net/hls/live/1006381/af34e533/playlist.m3u8
+#EXTINF:-1,group-title="Pakistan",92 news pak
+https://92news.vdn.dstreamone.net/92newshd/92hdabr/playlist_dvr.m3u8
+#EXTINF:-1,group-title="Pakistan",express news pak
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
+#EXTINF:-1,group-title="Pakistan",dunya news pak
+https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/playlist.m3u8
+#EXTINF:-1,group-title="Pakistan",peace tv urdu
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
+
+
+
+(English)
+#EXTINF:-1,group-title="English movies",	ORBIT MOVIES					
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8						
+#EXTINF:-1,group-title="English movies",	STAR MOVIES					
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8						
+#EXTINF:-1,group-title="English movies",	STAR WORLD HD					
+http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8						
+#EXTINF:-1,group-title="English movies",	CELESTIAL MOVIES					
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8						
+#EXTINF:-1,group-title="English movies",	KIX					
+http://210.210.155.35/uq2663/h/h07/index.m3u8						
+#EXTINF:-1,group-title="English movies",	CINEMA 1					
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8						
+#EXTINF:-1,group-title="English movies",	MBC MAX					
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8						
+#EXTINF:-1,group-title="English movies",	MBC ACTION					
+http://us.cdniptv.com/MBCACTIONHD.m3u8						
+#EXTINF:-1,group-title="English movies",	MBC ACTION					
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8						
+#EXTINF:-1,group-title="English movies",	MBC2					
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8						
+#EXTINF:-1,group-title="English movies",	ZDF					
+http://us.cdniptv.com/zdf.m3u8						
+#EXTINF:-1,group-title="English movies",	KIX HD					
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8						
+#EXTINF:-1,group-title="English movies",	THRILL					
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8						
+#EXTINF:-1,group-title="English movies",	MY CINEMA					
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8						
+#EXTINF:-1,group-title="English movies",	DIVA					
+http://210.210.155.35/uq2663/h/h11/index.m3u8						
+#EXTINF:-1,group-title="English movies",	CINEMA HITS					
+http://210.210.155.35/uq2663/h/h37/index2.m3u8						
+#EXTINF:-1,group-title="English movies",	FIRST MOVIES					
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8						
+#EXTINF:-1,group-title="English movies",	DMAX					
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8						
+#EXTINF:-1,group-title="English movies",	IFILM ARABI					
+http://mn-nl.mncdn.com/ifilm/smil:ifilmar.smil/index.m3u8						
+#EXTINF:-1,group-title="English movies",	IFLM ENGLISH					
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8						
