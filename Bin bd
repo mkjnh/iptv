@@ -1,11 +1,11 @@
 
-#EXTINF:-1, group-title="news", সময় টিভি বাংলা
+#EXTINF:-1, group-title="bangla", সময় টিভি বাংলা
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1, group-title="bangla",channels I bd
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,group-title="bangla",iqra bangla tv
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
-#EXTINF:-1,group-title="news",Jamuna TV LIVE 
+#EXTINF:-1,group-title="bangla",Jamuna TV LIVE 
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="bangla",azan tv
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
@@ -39,7 +39,7 @@ http://109.169.56.170/hls/ntv.m3u8
 http://109.169.56.170/hls/rtv.m3u8				
 #EXTINF:-1,group-title="bangla",ATN BANGLA			
 http://109.169.56.170/hls/atnbangla.m3u8				
-#EXTINF:-1,group-title="news",ATN NEWS			
+#EXTINF:-1,group-title="bangla",ATN NEWS			
 http://109.169.56.170/hls/atnnews.m3u8				
 #EXTINF:-1,group-title="bangla", NEWS 24			
 http://109.169.56.170/hls/news24.m3u8				
@@ -57,7 +57,7 @@ http://109.169.56.170/hls/asiantv.m3u8
 http://109.169.56.170/hls/bijoytv.m3u8				
 #EXTINF:-1,group-title="bangla",CHANNEL 24			
 http://109.169.56.170/hls/channel24.m3u8				
-#EXTINF:-1,group-title="news", DBC NEWS			
+#EXTINF:-1,group-title="bangla", DBC NEWS			
 http://109.169.56.170/hls/dbcnews.m3u8				
 #EXTINF:-1,group-title="bangla",INDEPENDENT TV			
 http://109.169.56.170/hls/independent.m3u8				
@@ -104,11 +104,11 @@ https://sony247channels.akamaized.net/hls/live/2002598/AnimaxHD/master.m3u8?hdne
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne																	
 #EXTINF:-1,• group-title="Hindi",AXN HD																	
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne																	
-#EXTINF:-1,• group-title="news",AAJ TAK																	
+#EXTINF:-1,• group-title="Hindi",AAJ TAK																	
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtak.smil/chunklist.m3u8																	
-#EXTINF:-1,AAJ group-title="news",TAK TEZ																	
+#EXTINF:-1,AAJ group-title="Hindi",TAK TEZ																	
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8																	
-#EXTINF:-1,•group-title="news", DEHLI AAJ TAK																	
+#EXTINF:-1,•group-title="Hindi", DEHLI AAJ TAK																	
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist.m3u8																	
 
 	#EXTINF:-1,group-title="Hindi",	GEMINI MOVIES
@@ -256,19 +256,19 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?
 #EXTINF:-1,group-title="Hindi",Manoranjan
 http://streamer.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
 (News India)
-#EXTINF:-1,group-title="news",news 18urdu
+#EXTINF:-1,group-title="Hindi",news 18urdu
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/master.m3u8?hdnea=st=1582021208~exp=1582057208~acl=/*~hmac=d1a9f518e82152ea069aedffd3a3dc8922a82d043d68370fde76af88af4a93d1
-#EXTINF:-1,group-title="news",abp news 
+#EXTINF:-1,group-title="Hindi",abp news 
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1,group-title="news",indiatoday
+#EXTINF:-1,group-title="Hindi",indiatoday
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1,group-title="news",news taz
+#EXTINF:-1,group-title="Hindi",news taz
 https://feeds.intoday.in/aajtak/api/tez/master.m3u8
-#EXTINF:-1,group-title="news",aajtak
+#EXTINF:-1,group-title="Hindi",aajtak
 https://vidcdn.vidgyor.com/at-origin/liveabr/playlist.m3u8
-#EXTINF:-1,group-title="news", nd tv india
+#EXTINF:-1,group-title="Hindi", nd tv india
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1,group-title="news",India news
+#EXTINF:-1,group-title="Hindi",India news
 https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
 
 (Nat Geo)
@@ -1119,3 +1119,17 @@ News
 http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:-1 group-title="news",BBC world
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,group-title="news",news 18urdu
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/master.m3u8?hdnea=st=1582021208~exp=1582057208~acl=/*~hmac=d1a9f518e82152ea069aedffd3a3dc8922a82d043d68370fde76af88af4a93d1
+#EXTINF:-1,group-title="news",abp news 
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1,group-title="news",indiatoday
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1,group-title="news",news taz
+https://feeds.intoday.in/aajtak/api/tez/master.m3u8
+#EXTINF:-1,group-title="news",aajtak
+https://vidcdn.vidgyor.com/at-origin/liveabr/playlist.m3u8
+#EXTINF:-1,group-title="news", nd tv india
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1,group-title="news",India news
+https://streamer.multitvsolution.in/live/IndiaNews-e/p4.m3u8
