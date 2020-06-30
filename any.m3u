@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="Tamil",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="Tamil",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 group-title="Tamil",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Akaram TV
+http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
+#EXTINF:-1 group-title="Tamil",Akaram TV
+http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Analai Express HD
+https://live.streamjo.com/sarastv/sarastv.m3u8
+#EXTINF:-1 group-title="Tamil",Classics Tamil
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",IBC Bakthi
+https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi.m3u8
+#EXTINF:-1 group-title="Tamil",IBC Comedy
+https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8
+#EXTINF:-1 group-title="Tamil",IBC Kids
+https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+#EXTINF:-1 group-title="Tamil",IBC Music
+https://ibcmusic-live.ibctamil.com/transcode/music.m3u8
+#EXTINF:-1 group-title="Tamil",IBC Siluvai
+https://ibcsiluvai-live.ibctamil.com/transcode/ibcsiluvai.m3u8
+#EXTINF:-1 group-title="Tamil",IBC Tamil
+https://ibctamil-live.ibctamil.com/transcode/ibctamil.m3u8
+#EXTINF:-1 group-title="Tamil",IBC Tamil Canada
+https://ibctamilcanada-live.ibctamil.com/transcode/ibccanada.m3u8
+#EXTINF:-1 group-title="Tamil",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 group-title="Tamil",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="Tamil",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="Tamil",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="Tamil",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+#EXTINF:-1 group-title="Tamil",Tamil Business TV
+http://rtmp.santhoratv.zecast.net/tamilbusinesstv//tamilbusinesstv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Tamil Business TV
+http://rtmp.santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Tamil Business TV
+http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/index.m3u8
+#EXTINF:-1 group-title="Tamil",Tamil Vision International
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Thirumalai TV
+http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Vaanavil TV
+https://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+#EXTINF:-1 group-title="Tamil",Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8
+#EXTINF:-1 group-title="Tamil",Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
+#EXTINF:-1 group-title="Tamil",Vathanam TV
+http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
