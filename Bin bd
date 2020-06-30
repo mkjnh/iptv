@@ -48,7 +48,103 @@ https://streamer-1.toffeelive.com/live/sony_aath_160/index.m3u8
 #EXTINF:-1, group-title="Bangladesh",Gazi tv bangla"																		
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8																		
 																	
-																		
+ 
+ 
+#EXTINF:-1 group-title="Hindi",SONY MAX
+ 47 
+ 
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 48 
+ 
+#EXTINF:-1 group-title="Hindi",SONY WAH
+ 49 
+ 
+https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
+ 50 
+ 
+#EXTINF:-1 group-title="Hindi",• SONY TV HD
+ 51 
+ 
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 52 
+ 
+#EXTINF:-1 group-title="Hindi",SAB TV HD
+ 53 
+ 
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 54 
+ 
+#EXTINF:-1 group-title="Hindi",SONY PAL
+ 55 
+ 
+https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 56 
+ 
+#EXTINF:-1 group-title="Hindi",SONY AATH
+ 57 
+ 
+https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 58 
+ 
+#EXTINF:-1 group-title="Hindi",SONY MARATHI
+ 59 
+ 
+https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 60 
+ 
+#EXTINF:-1 group-title="Hindi",SONY MIX
+ 61 
+ 
+https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 62 
+ 
+#EXTINF:-1 group-title="Hindi",SONY BBC EARTH
+ 63 
+ 
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 64 
+ 
+#EXTINF:-1 group-title="Hindi",SONY YAY
+ 65 
+ 
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 66 
+ 
+#EXTINF:-1 group-title="Hindi",SONY PIX HD
+ 67 
+ 
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 68 
+ 
+#EXTINF:-1 group-title="Hindi",AXN HD
+ 69 
+ 
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+ 70 
+ 
+#EXTINF:-1 group-title="Hindi",zeeaflam
+ 71 
+ 
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+ 72 
+ 
+#EXTINF:-1 group-title="Hindi",b4uaflam
+ 73 
+ 
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/01.m3u8
+#EXTINF:-1 group-title="Hindi",b4uplus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/01.m3u8
+#EXTINF:-1 group-title="Hindi",mbc bollyod
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/01.m3u8
+#EXTINF:-1 group-title="Hindi",STAR PLUS HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 group-title="Hindi",STAR GOLD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1 group-title="Hindi",Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks. 
+#EXTINF:-1 group-title="Hindi",BollyWood Hd
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+ 																		
 
 
 #EXTINF:-1,group-title="Nat Geo",Nat Geo 				
