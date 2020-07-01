@@ -278,6 +278,38 @@ http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1 group-title="Hindi",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8																		
 
+"#EXTINF:-1 group-title=""Pakistan "",ARY NEWS"						
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",GE0 NEWS"						
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp3/chunks_dvr.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",NEWS 91"						
+https://92news.vdn.dstreamone.net/92newshd/92hdabr/playlist_dvr.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",NEWS EXPRESS"						
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",DUNYA NEWS"						
+https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/playlist.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",ARY MUSIC "						
+https://stream.arylive.com/MusikLive/index.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",PTV   SPORTS "						
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/playlist.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",GEO IN"						
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",ARY FAMILY "						
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",AAJ NEWS"						
+http://playlive.goonj.pk/aajnewsweb_360p/index.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",APLUS"						
+https://hls5.zedflix.pk/hls/aplusweb_240p.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",AAJ IN"						
+http://playlive.goonj.pk/aajentweb_360p/index.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",FILMX TV"						
+http://playlive.goonj.pk/filmaxweb_360p/index.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",PTV NEWS"						
+https://5ed6c4979aac2.streamlock.net/ptvnews/myStream/playlis.m3u8						
+"#EXTINF:-1 group-title=""Pakistan "",PTV HOME "						
+https://5ed6c4979aac2.streamlock.net/ptvhome/myStream/playlis.m3u8						
+
+
 #EXTM3U
 #EXTINF:-1 group-title="Malayalam",Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
