@@ -102,9 +102,13 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="Hindi",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks. 
 #EXTINF:-1 group-title="Hindi",BollyWood Hd
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
- 
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END#EXTINF:-1 group-title="Hindi",INDIA TODAY
 
+#EXTINF:-1 group-title="Hindi",INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",AAJTAK
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 group-title="Hindi",NDTV HINDI
 http://z5amshls.akamaized.net/andtvsd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Hindi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
