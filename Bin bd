@@ -803,9 +803,9 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",KTV Sport Plus
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Lana plus
-https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
+http://51.81.80.6:25461/live/zeko/zeko/28.m3u8
 #EXTINF:-1 group-title="Arabic",Lana TV HD
-https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
+http://51.81.80.6:25461/live/zeko/zeko/28.m3u8
 #EXTINF:-1 group-title="Arabic",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Libya 218
