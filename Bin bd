@@ -1010,3 +1010,7 @@ https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",هلا تي في
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1 group-title="Arabic",OTV LBN
+http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
+#EXTINF:-1 group-title="Arabic",MTV LBN
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
