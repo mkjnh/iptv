@@ -1017,19 +1017,19 @@ http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 
 #EXTINF:-1 group-title="ENGLISH ",IFILME ENGLISH 
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8					
-#EXTINF:-1 group-title="ENGLISH ",MBC ACTION"					
+#EXTINF:-1 group-title="ENGLISH ",MBC ACTION					
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8					
-#EXTINF:-1 group-title="ENGLISH ",MBC MAX"					
+#EXTINF:-1 group-title="ENGLISH ",MBC MAX					
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8					
-#EXTINF:-1 group-title="ENGLISH ",MBC 2"					
+#EXTINF:-1 group-title="ENGLISH ",MBC 2					
 https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8					
-#EXTINF:-1 group-title="ENGLISH ",DUBAI ONE"					
+#EXTINF:-1 group-title="ENGLISH ",DUBAI ONE					
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8					
-#EXTINF:-1 group-title="ENGLISH ",STAR MOVIES"					
+#EXTINF:-1 group-title="ENGLISH ",STAR MOVIES					
 http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8					
-#EXTINF:-1 group-title="ENGLISH ",MOVIES KINGDOM "					
+#EXTINF:-1 group-title="ENGLISH ",MOVIES KINGDOM 					
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8					
-#EXTINF:-1 group-title="ENGLISH ",MOVIES NOW"					
+#EXTINF:-1 group-title="ENGLISH ",MOVIES NOW					
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8					
 #EXTINF:-1 group-title="ENGLISH ",KIX					
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8					
