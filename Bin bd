@@ -11,7 +11,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1, group-title="Documentary",History 
 http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 
- #EXTINF:-1 tvg-logo="https://www.mediabangladesh.net/channel-i-in-bangladesh-frequency-programs-schedule-and-logo/channel-i-logo/#iLightbox[postimages]/0" group-title="BANGLADESH ",channels I"																		
+#EXTINF:-1 tvg-logo="https://www.mediabangladesh.net/channel-i-in-bangladesh-frequency-programs-schedule-and-logo/channel-i-logo/#iLightbox[postimages]/0" group-title="Bangladesh",channels I																		
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8																		
 #EXTINF:-1, group-title="Bangladesh",boishakhi tv"																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8																		
