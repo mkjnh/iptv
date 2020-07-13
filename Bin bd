@@ -1026,14 +1026,13 @@ https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
 #EXTINF:-1 group-title="ENGLISH ",DUBAI ONE					
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8					
 #EXTINF:-1 group-title="ENGLISH ",STAR MOVIES					
-http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8					
-#EXTINF:-1 group-title="ENGLISH ",MOVIES KINGDOM 					
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8					
+http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8															
 #EXTINF:-1 group-title="ENGLISH ",MOVIES NOW					
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8					
 #EXTINF:-1 group-title="ENGLISH ",KIX					
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8					
-					
+#EXTINF:-1 group-title="ENGLISH ",MOVIES KINGDOM 
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8					
 					
 					
 					
