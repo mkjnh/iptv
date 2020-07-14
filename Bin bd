@@ -1034,13 +1034,13 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 group-title="ENGLISH ",MOVIES KINGDOM 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8					
 					
-#EXTINF:-1 tvg-logo="is.gd/RvLXV2"group-title="sports ", TEN 3
+#EXTINF:-1tvg-logo="is.gd/RvLXV2"group-title="sports",TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/PTV_Sports#/media/File%3APTV_Sports.png"group-title="sports",PTV SPORTS 
+#EXTINF:-1tvg-logo="https://en.m.wikipedia.org/wiki/PTV_Sports#/media/File%3APTV_Sports.png"group-title="sports",PTV SPORTS 
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Channel_9_(Bangladesh)#/media/File%3AChannel9_bd.svg"group-title="sports",Channel 9
+#EXTINF:-1tvg-logo="https://en.m.wikipedia.org/wiki/Channel_9_(Bangladesh)#/media/File%3AChannel9_bd.svg"group-title="sports",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Maasranga_Television#/media/File%3AMaasranga_Television_Logo.jpg"group-title="sports",Maasranga
+#EXTINF:-1tvg-logo="https://en.m.wikipedia.org/wiki/Maasranga_Television#/media/File%3AMaasranga_Television_Logo.jpg"group-title="sports",Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1tvg-logo="https://en.m.wikipedia.org/wiki/GTV_(Bangladesh)#/media/File%3AGTVBangladeshLogo.png" group-title="sports",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
