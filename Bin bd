@@ -1031,7 +1031,8 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 group-title="ENGLISH ",MOVIES KINGDOM 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8					
 
-
+#EXTINF:-1, group-title="sports", ten sports Pakistan
+http://109.169.15.52:8080/Ds/1/index.m3u8?token=NmM0NmVhYjA2MWNmYTIwMmE0ZTlkYzQ5YWU2MGUyN2M6MTU5NDc5NDY0Ng==
 #EXTINF:-1, group-title="sports",SONY SIX
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8					
 #EXTINF:-1, group-title="sports",TEN 3
