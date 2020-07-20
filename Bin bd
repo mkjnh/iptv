@@ -68,6 +68,14 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1, group-title="Bangladesh",STAR MOVIES BANGLA
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
+#EXTINF:-1 group-title="Hindi",ZEE NEWS
+http://216.144.250.174/Zee_News_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi",ZING TV
+http://216.144.250.174/Zing_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi",ZEE CLASSIC
+http://216.144.250.174/Zee_Classic_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi",ZEE ANMOL
+http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",NDTV INDIA 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 group-title="Hindi",ZEE SALAAM
