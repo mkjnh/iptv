@@ -389,6 +389,16 @@ http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/fc1e82b9a18586b50eb40c3867a61bc9.sdp/safari/7458b29278e8549fe2d0fe7ab8eb3e78.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Malayalam",Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 group-title="Malayalam",ACV PLUS
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/chunklist_b996000.m3u8
+
+
+
+
+
+
+
+
 
 #EXTM3U
 #EXTINF:-1 group-title="Tamil",7S Music
