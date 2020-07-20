@@ -311,6 +311,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1 group-title="Hindi",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8																		
+#EXTINF:-1 group-title="Hindi",BUJPURY
+https://streamitv.multitvsolution.in/idvo/bhojpuricinema_360p/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan ",ARY NEWS"						
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8						
