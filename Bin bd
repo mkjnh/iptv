@@ -389,14 +389,6 @@ http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Malayalam",Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1 group-title="Malayalam",ACV PLUS
-https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/chunklist_b996000.m3u8
-#EXTINF:-1 group-title="Malayalam",ACV USATV
-https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
-#EXTINF:-1 group-title="Malayalam",ACV
-https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-#EXTINF:-1 group-title="Malayalam",ACV MIDDLEST
-https://acv.asianetmobiletvplus.com/webstreams/95ef9473f8e0c8898d58b16300dbb7b5/chunklist.m3u8
 
 
 
