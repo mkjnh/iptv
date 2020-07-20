@@ -391,8 +391,8 @@ https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/fc1e82b9a18586b50eb40c3867a61bc9
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 group-title="Malayalam",ACV PLUS
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/chunklist_b996000.m3u8
-
-
+#EXTINF:-1 group-title="Malayalam",ACV USATV
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
 
 
 
