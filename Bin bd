@@ -11,61 +11,61 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1, group-title="Documentary",History 
 http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 
-#EXTINF:-1, group-title="Bangladesh",channel I																		
+#EXTINF:-1 group-title="Bangladesh",channel I																		
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh",boishakhi tv"																		
+#EXTINF:-1 group-title="Bangladesh",boishakhi tv																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh",iqra tv"																		
+#EXTINF:-1 group-title="Bangladesh",iqra tv																		
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", Bangla vision"																		
+#EXTINF:-1 group-title="Bangladesh", Bangla vision																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", NTV"																		
+#EXTINF:-1 group-title="Bangladesh", NTV																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", ATN Bangla"																		
+#EXTINF:-1 group-title="Bangladesh", ATN Bangla																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", ATN  news"																		
+#EXTINF:-1 group-title="Bangladesh", ATN  news																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8																		
-#EXTINF:-1, group-title=""Bangladesh"", ATN Islamic TV"																		
+#EXTINF:-1 group-title=""Bangladesh"", ATN Islamic TV																	
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", news24"																		
+#EXTINF:-1 group-title="Bangladesh", news24																		
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", Rtv music"																		
+#EXTINF:-1 group-title="Bangladesh", Rtv music																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", arzan TV bangla"																		
+#EXTINF:-1 group-title="Bangladesh", arzan TV bangla																		
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", al dawaha TV bangla"																		
+#EXTINF:-1 group-title="Bangladesh", al dawaha TV bangla																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/live-orgin/dawah-eu.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh",jamuna TV bangla"																		
+#EXTINF:-1 group-title="Bangladesh",jamuna TV bangla																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh",  somay TV bangla"																		
+#EXTINF:-1 group-title="Bangladesh",  somay TV bangla																	
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", madani TV bangla"																		
+#EXTINF:-1 group-title="Bangladesh", madani TV bangla																	
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", Peace TV bangla"																		
+#EXTINF:-1 group-title="Bangladesh", Peace TV bangla																	
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", mohana TV  Bangla"																		
+#EXTINF:-1 group-title="Bangladesh", mohana TV  Bangla																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/live-orgin/cumilla24.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", Asia TV bangla"																		
+#EXTINF:-1 group-title="Bangladesh", Asia TV bangla																		
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", SA TV Bangla"																		
+#EXTINF:-1 group-title="Bangladesh", SA TV Bangla																		
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", DBC news bangla"																		
+#EXTINF:-1 group-title="Bangladesh", DBC news bangla																	
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh" ,my cenama bangla "																		
+#EXTINF:-1 group-title="Bangladesh" ,my cenama bangla 																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/live-orgin/mycinema-up2.stream/chunks.m3u8																		
-#EXTINF:-1, group-title="Bangladesh", millennium TV bangla"																		
+#EXTINF:-1 group-title="Bangladesh", millennium TV bangla																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8																		
-"#EXTINF:-1, group-title="Bangladesh", Sony aath"																		
+"#EXTINF:-1 group-title="Bangladesh", Sony aath																		
 https://streamer-1.toffeelive.com/live/sony_aath_160/index.m3u8																		
-#EXTINF:-1, group-title="Bangladesh",Gazi tv bangla"																		
+#EXTINF:-1 group-title="Bangladesh",Gazi tv bangla																		
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8																	laam/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, group-title="Bangladesh",ZEE BANGLA
+#EXTINF:-1 group-title="Bangladesh",ZEE BANGLA
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1, group-title="Bangladesh",COLORS BANGLA
+#EXTINF:-1 group-title="Bangladesh",COLORS BANGLA
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1, group-title="Bangladesh",STAR JALSHA
+#EXTINF:-1 group-title="Bangladesh",STAR JALSHA
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1, group-title="Bangladesh",STAR MOVIES BANGLA
+#EXTINF:-1 group-title="Bangladesh",STAR MOVIES BANGLA
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
 #EXTINF:-1 group-title="Hindi",ZEE NEWS
