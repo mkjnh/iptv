@@ -79,7 +79,7 @@ http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",NDTV INDIA 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 group-title="Hindi",ZEE SALAAM
-http://z5amshls.akamaized.net/zeesalaam/tracks-v1a1/playlist.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 group-title="Hindi",ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Hindi",AND TV
