@@ -66,7 +66,9 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh",STAR JALSHA
 https://streamitv.multitvsolution.in/idvo/khushboo_360p/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",STAR MOVIES BANGLA
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+hqttps://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh",comilla tv
+http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/live-orgin/cumilla24.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Hindi",ZEE NEWS
 http://216.144.250.174/Zee_News_HD/tracks-v1a1/mono.m3u8
