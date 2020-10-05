@@ -97,7 +97,7 @@ http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",• SONY TV HD
 http://208.115.215.42/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",SAB TV HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
+
 #EXTINF:-1 group-title="Hindi",SONY PAL
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8
 #EXTINF:-1 group-title="Hindi",STARBHART
