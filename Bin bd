@@ -1,6 +1,4 @@
-
-
-#EXTINF:-1, group-title="Documentary",National Geography 
+QNF:-1, group-title="Documentary",National Geography 
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1, group-title="Documentary",Nat Geo Wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
@@ -10,7 +8,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1, group-title="Documentary",History 
 http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
-
+http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh",channel I																		
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8																		
 #EXTINF:-1 group-title="Bangladesh",boishakhi tv																		
