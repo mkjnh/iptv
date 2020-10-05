@@ -105,7 +105,7 @@ http://103.205.133.14/hls/starbharat.m3u8
 #EXTINF:-1 group-title="Hindi",RISHTEY
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:-1 group-title="Hindi",SONY MIX
-http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Hindi",zeeaflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1 group-title="Hindi",b4uaflam
