@@ -1,5 +1,5 @@
 #EXTINF:-1, group-title="sports",t sports
-http://209.126.120.153/hls/tsports.m3u
+http://185.21.216.197:3546/sports2021/willowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDk6MjI6MzYgQU0maGFzaF92YWx1ZT1PTEU1RlYxS0NTTklPeEhnQWZTSlFBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, group-title="Documentary",National Geography 
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1, group-title="Documentary",Nat Geo Wild HD
