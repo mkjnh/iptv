@@ -11,8 +11,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1, group-title="Documentary",History 
 http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title="Bangladesh"cumilla tv
+https://cdn.priyoiptv.com:444/priyoiptv/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh"jamuna tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh",channel I																		
