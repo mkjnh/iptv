@@ -18,50 +18,10 @@ https://cdn.priyoiptv.com:444/priyoiptv/cumilla24.stream/chunks.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="Hindi",sony tv
 http://209.126.120.153/hls/chs.m3u8
-#EXTINF:-1 group-title="Hindi",zee tv
-http://z5ams.akamaized.net/zeetvhd/index.m3u8?hdnts=st=1615556569~exp=1615559569~acl=/*~hmac=c141ae23f4f396b619d9f0222506bfddfc03e7b1275f2cb344845c5b99f88d22
-#EXTINF:-1 group-title="Hindi",zee cenema
-http://z5ams.akamaized.net/zeecinemame/index.m3u8?hdnts=st=1615556839~exp=1615559839~acl=/*~hmac=0b4dc1cb77016b9cac6e34791f810307e65739a8383c25e60a91c49ffb23e4fd
-#EXTINF:-1 group-title="Hindi",zee picture Plus
-http://z5ams.akamaized.net/andpicssd/index.m3u8?hdnts=st=1615556839~exp=1615559839~acl=/*~hmac=0b4dc1cb77016b9cac6e34791f810307e65739a8383c25e60a91c49ffb23e4fd
-#EXTINF:-1 group-title="Hindi",zee action
-http://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1615557116~exp=1615560116~acl=/*~hmac=0acd4313d6a0552bf556e370c64bc075ace11aa3a48124176d16735162d493a4
-#EXTINF:-1 group-title="Hindi",ZEE NEWS
-http://216.144.250.174/Zee_News_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi",ZING TV
-http://216.144.250.174/Zing_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi",ZEE CLASSIC
-http://216.144.250.174/Zee_Classic_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi",ZEE ANMOL
-http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi",NDTV INDIA 
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 group-title="Hindi",ZEE SALAAM
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 group-title="Hindi",ZEE SMILE
-http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Hindi",AND TV
-http://z5amshls.akamaized.net/andtvsd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Hindi",and  picture  
-http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Hindi",ZEE ACTION
-http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8																
-#EXTINF:-1 group-title="Hindi",ZEE CINEMA HD
-http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Hindi",SONY MAX
-http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi",• SONY TV HD
-http://208.115.215.42/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi",SAB TV HD
-http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi",SONY PAL
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8
-#EXTINF:-1 group-title="Hindi",STARBHART
-http://103.205.133.14/hls/starbharat.m3u8
-#EXTINF:-1 group-title="Hindi",RISHTEY
-https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
-#EXTINF:-1 group-title="Hindi",SONY MIX
-http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+
+
+
+ks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",zeeaflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1 group-title="Hindi",b4uaflam
@@ -70,19 +30,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uaflam/01.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/01.m3u8
 #EXTINF:-1 group-title="Hindi",mbc bollyod
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/01.m3u8
-#EXTINF:-1 group-title="Hindi",STAR PLUS HD
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 group-title="Hindi",STAR GOLD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 group-title="Hindi",Colors HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks. 
-#EXTINF:-1 group-title="Hindi",BollyWood Hd
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END#EXTINF:-1 group-title="Hindi",INDIA TODAY
 
-#EXTINF:-1 group-title="Hindi",INDIA TODAY
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="Hindi",AAJTAK
-https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 group-title="Hindi",NDTV HINDI
 http://z5amshls.akamaized.net/andtvsd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Hindi",5aab TV
