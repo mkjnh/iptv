@@ -244,6 +244,14 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8
 #EXTINF:-1 group-title="Hindi",BUJPURY
 https://streamitv.multitvsolution.in/idvo/bhojpuricinema_360p/index.m3u8
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Pakistan ",ARY NEWS						
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8						
 #EXTINF:-1 group-title="Pakistan ",GE0 NEWS						
@@ -274,6 +282,13 @@ http://playlive.goonj.pk/filmaxweb_360p/index.m3u8
 https://5ed6c4979aac2.streamlock.net/ptvnews/myStream/playlis.m3u8						
 #EXTINF:-1 group-title="Pakistan ",PTV HOME 						
 https://5ed6c4979aac2.streamlock.net/ptvhome/myStream/playlis.m3u8						
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Malayalam",asianet news 1
 https://vidhttps.r.worldssl.net/asianet-origin/liveabr/playlist.m3u8
@@ -386,6 +401,9 @@ https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
 #EXTINF:-1 group-title="Tamil",Vathanam TV
 http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
+
+
+
 
 #EXTINF:-1 group-title="News",CNN NEWS
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
@@ -974,6 +992,10 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 group-title="ENGLISH ",MOVIES KINGDOM 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8					
 
+
+
+#EXTINF:-1, group-title="sports",ten sports 1
+http://209.126.120.153/hls/ten1.m3u8
 #EXTINF:-1, group-title="sports", ten sports Pakistan
 http://109.169.15.52:8080/Ds/1/index.m3u8?token=NmM0NmVhYjA2MWNmYTIwMmE0ZTlkYzQ5YWU2MGUyN2M6MTU5NDc5NDY0Ng==
 #EXTINF:-1, group-title="sports",SONY SIX
@@ -994,6 +1016,10 @@ http://212.47.252.54/hls/stream.m3u8
 http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1, group-title="sports",GTV
 http://43.251.86.2:8080/hls/channel_1.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Kids", Disney Junior					
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
