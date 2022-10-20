@@ -1,0 +1,465 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",3 Tamil TV (720p) [Not 24/7]
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="Music",7S Music (576p) [Not 24/7]
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="Music",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="News",Aaj Tak (360p) [Geo-blocked]
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Aathavan TV (720p) [Not 24/7]
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 group-title="News",ABP News (720p)
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 group-title="Kids",Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 group-title="News",AKD Calcutta News (540p) [Geo-blocked]
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
+#EXTINF:-1 group-title="News",Al Jazeera English (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+#EXTINF:-1 group-title="Entertainment",Amrita TV (576p)
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 group-title="Animation",Animax Asia (Vietnamese Subs) (720p)
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Animation",Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1 group-title="Undefined",Anjan (720p) [Not 24/7]
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Apna Punjab (720p)
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Artist Aloud (1080p) [Not 24/7]
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Ashrafi Channel (484p) [Not 24/7]
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:-1 group-title="Entertainment",Asianet Middle East (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0k6/index.m3u8
+#EXTINF:-1 group-title="News",Asianet News (720p) [Not 24/7]
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="News",Asianet News Kannada (360p) [Not 24/7]
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="News",Asianet News Tamil (360p) [Not 24/7]
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 group-title="General",ATN Bangla (1080p) [Geo-blocked]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",B4U Kadak (576p) [Not 24/7]
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 group-title="Kids",BabyTV (1080p)
+http://194.163.179.246/slovenci/djeciji/babytv.m3u8
+#EXTINF:-1 group-title="Undefined",Bahrain International (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",BBC Earth (Vietnamese dub) (1080p)
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="News",BBC News HD (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 group-title="News",BeritaSatu World (720p) [Not 24/7]
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="Movies",Boogle Bollywood (1080p) [Not 24/7]
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="General",BTV World (720p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Captain TV (576p) [Not 24/7]
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network Asia (720p)
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1 group-title="General",CCTV-4 Asia (576p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 group-title="News",CGTN (576p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="Documentary",CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="News",Channel Y (720p) [Not 24/7]
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="Classic",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 group-title="News",CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="Business",CNBC Asia (720p)
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Business",CNBC Bajar (504p) [Geo-blocked]
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 group-title="General",CTi亞洲台 (720p)
+http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+#EXTINF:-1 group-title="Undefined",Da Vinci Asia (1080p)
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment",DD Malayalam (576p)
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 group-title="Entertainment",DD National (576p)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 group-title="News",DD News (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
+#EXTINF:-1 group-title="Sports",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Undefined",Desi Beats HD (720p)
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Desi Channel (720p)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Desi Plus (720p)
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Dhamaal (1080p) [Not 24/7]
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Dhinchaak (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="News",Dighvijay (240p) [Not 24/7]
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Music",Dil Se (360p) [Not 24/7]
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",DocuBay TV (1080p) [Not 24/7]
+https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Animation",Dreamworks Channel Asia (Vietnamese dub) (1080p)
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment",Dreamz TV (576p) [Not 24/7]
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
+#EXTINF:-1 group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Entertainment",EET TV (1080p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="Entertainment",Enter10 Bangla (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0j5/index.m3u8
+#EXTINF:-1 group-title="Undefined",ERT World (480p)
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 group-title="Business",ET Now
+https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
+#EXTINF:-1 group-title="Undefined",ETB Basque (480p)
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 group-title="News",ETV Telangana (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ/live
+#EXTINF:-1 group-title="Music",Euro Indie Music Chart TV (360p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="News",Euronews en Español (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
+#EXTINF:-1 group-title="News",Euronews German
+https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1 group-title="News",Euronews Hungary (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euronewsHungarian/live
+#EXTINF:-1 group-title="News",Euronews Italiano (720p)
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News",Euronews по-русски (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
+#EXTINF:-1 group-title="Undefined",Failarmy International
+http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Fakt Marathi (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0q8/index.m3u8
+#EXTINF:-1 group-title="Undefined",FASTWAY NEWS (720p) [Not 24/7]
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Filmeraa (720p)
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
+#EXTINF:-1 group-title="Undefined",Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Flowers TV (576p)
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Food Food (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0qx/index.m3u8
+#EXTINF:-1 group-title="News",France 24 English (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+#EXTINF:-1 group-title="Undefined",GDNS Ludhiana (1080p) [Not 24/7]
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1 group-title="News",Global Punjab (720p) [Not 24/7]
+https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Go USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",GSTV (720p) [Not 24/7]
+https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
+#EXTINF:-1 group-title="Undefined",Hulchul TV (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Imayam (480p) [Not 24/7]
+https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
+#EXTINF:-1 group-title="News",India Today (720p) [Not 24/7]
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Inshort (India) (720p)
+https://inshort-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Isai Aruvi (576p)
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Jaihind TV (576p)
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 group-title="News",Jan TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q/live
+#EXTINF:-1 group-title="News",Janam TV (720p)
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Janta TV (360p) [Not 24/7]
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 group-title="Undefined",Jeevan TV (576p)
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 group-title="Undefined",Jonack TV (360p) [Not 24/7]
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 group-title="Music",Kadak Hits (1080p) [Not 24/7]
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 group-title="News",Kairali News (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCkCWitaToNG1_lR-Si1oMrg/live
+#EXTINF:-1 group-title="Entertainment",Kairali TV (480p)
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Kairali We (576p)
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 group-title="Undefined",Kalaignar (576p)
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 group-title="Music",Kalaignar Murasu (576p) [Not 24/7]
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 group-title="News",Kalaignar Seithikal (576p) [Not 24/7]
+http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
+#EXTINF:-1 group-title="Comedy",Kalaignar Sirippoli (576p)
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 group-title="Undefined",Kalinga TV (864p) [Not 24/7]
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="News",Kanak News (720p) [Not 24/7]
+https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Kanal 10 Asia (540p)
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle",Kappa TV (360p)
+https://idvd.multitvsolution.com/idvo/kappatv.m3u8
+#EXTINF:-1 group-title="Entertainment",Kasthuri (576p)
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 group-title="General",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="Entertainment",KCV (576p) [Not 24/7]
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Movies",KCV Movies (576p) [Not 24/7]
+http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Undefined",Keralabhumi
+http://103.153.92.157:11037/hls/kbh.m3u8
+#EXTINF:-1 group-title="Undefined",Khabrain Abhi Tak (480p) [Not 24/7]
+https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",KITE Victers (Kerala) (720p) [Not 24/7]
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Life TV (480p) [Not 24/7]
+http://59c3ec70cfde0.streamlock.net/channel_6/channel6/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Maha Movie (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0q7/index.m3u8
+#EXTINF:-1 group-title="News",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#EXTINF:-1 group-title="News",Malabar Vision (720p)
+http://cdn1.logicwebs.in:1935/malabar/malabar/playlist.m3u8
+#EXTINF:-1 group-title="News",Malappuram Channel (720p) [Not 24/7]
+http://103.78.18.137:1935/live/mlpchannel/chunklist.m3u8
+#EXTINF:-1 group-title="Undefined",Mandra TV
+http://192.99.2.28/mandra_hls/mandra.m3u8
+#EXTINF:-1 group-title="News",Mangalam (576p) [Not 24/7]
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 group-title="News",Manorama News (576p)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 group-title="News",Mathrubhumi News (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwXrBBZnIh2ER4lal6WbAHw/live
+#EXTINF:-1 group-title="Undefined",Mav TV
+http://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Mazhavil Manorama (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0kd/index.m3u8
+#EXTINF:-1 group-title="News",Media One (576p)
+http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
+#EXTINF:-1 group-title="Culture",Metro Globe Network (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",MH1 Music (360p) [Not 24/7]
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",MH1 Prime (360p) [Not 24/7]
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Mirror Now
+https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
+#EXTINF:-1 group-title="Undefined",MK Six (576p) [Not 24/7]
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="Undefined",MK Tunes (576p) [Not 24/7]
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="Entertainment",MK TV (576p) [Not 24/7]
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="Undefined",MNB world
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV HD
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
+#EXTINF:-1 group-title="Music",Music India (576p) [Not 24/7]
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+#EXTINF:-1 group-title="Undefined",Myanmar International TV (mitv) (480p)
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Namdhari (404p) [Not 24/7]
+https://namdhari.tv/live/sbs1.m3u8
+#EXTINF:-1 group-title="Science",NASA TV (720p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="Undefined",Nav Media
+https://gvjyg2n9doem-hls-live.5centscdn.com/navmediastream/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Music",Nazrana (720p) [Not 24/7]
+https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",NBT World
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",NCV (720p) [Not 24/7]
+http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",NDTV 24X7 (480p) [Not 24/7]
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="Undefined",NDTV India (480p) [Not 24/7]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="Business",NDTV Profit (480p)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
+#EXTINF:-1 group-title="News",Nethra TV (480p) [Not 24/7]
+https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:-1 group-title="News",News 7 Tamil (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
+#EXTINF:-1 group-title="News",News 18 Tamil (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
+#EXTINF:-1 group-title="News",News J (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw/live
+#EXTINF:-1 group-title="Undefined",Next TV Malabar (720p) [Not 24/7]
+https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Culture;News",NHK World Japan (YouTube) (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
+#EXTINF:-1 group-title="Undefined",NVision
+http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",One TV (720p)
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",People are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",Pluto TV Euronews (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="News",Polimer News (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
+#EXTINF:-1 group-title="Music",Pop Pataka (480p) [Not 24/7]
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Pramaya News7 (576p) [Not 24/7]
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+#EXTINF:-1 group-title="News",Pratidin Time (360p) [Not 24/7]
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",PTV World (480p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live
+#EXTINF:-1 group-title="Music",Public Music (576p) [Not 24/7]
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 group-title="Undefined",Pulari TV (720p) [Not 24/7]
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 group-title="Undefined",Punjabi Zindabad (360p) [Not 24/7]
+http://stream.pztv.online/pztv/playlist.m3u8
+#EXTINF:-1 group-title="News",Puthiya Thalaimurai (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg/live
+#EXTINF:-1 group-title="Undefined",Puthuyugam TV (576p) [Not 24/7]
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 group-title="News",Raj News Malayalam
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RajNewsMalayalam/live
+#EXTINF:-1 group-title="News",Real News Kerala (1080p) [Not 24/7]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Music",Real TV (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="News",Reporter TV (576p)
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 group-title="Undefined",Republic Bharat (360p) [Geo-blocked]
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF:-1 group-title="Undefined",Republic TV [Geo-blocked]
+https://weblive.republicworld.com/liveorigin/republictv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",RT Documentary Russian (1080p) [Not 24/7]
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1 group-title="General",RTP Internacional (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Sada TV (1080p) [Not 24/7]
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1 group-title="Undefined",Safari TV (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music",Sana Plus (720p) [Not 24/7]
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Sana TV (576p) [Not 24/7]
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Santhora TV (720p)
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+#EXTINF:-1 group-title="Undefined",Sardari TV (1080p) [Not 24/7]
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 group-title="News",Sathiyam TV (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
+#EXTINF:-1 group-title="Undefined",Sea Today (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 group-title="Undefined",Shalom TV (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
+#EXTINF:-1 group-title="Undefined",Shekinah TV (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCHtYUfPnQci6GoUpPlWfrOg/live
+#EXTINF:-1 group-title="Religious",Shraddha (360p) [Not 24/7]
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Shubhsandesh (720p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 group-title="Sports",Ski TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1 group-title="Movies",Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Sony BBC Earth HD (1080p)
+http://103.81.104.118/hls/stream5.m3u8
+#EXTINF:-1 group-title="Undefined",Sony Six HD (1080p)
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:-1 group-title="Undefined",Star Cinema (576p)
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+#EXTINF:-1 group-title="Undefined",Star Family (576p)
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
+#EXTINF:-1 group-title="Undefined",Star Gold HD (1080p)
+http://103.81.104.118/hls/stream19.m3u8
+#EXTINF:-1 group-title="Undefined",Star Plus HD (720p) [Geo-blocked]
+http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+#EXTINF:-1 group-title="Music",Steelbird Music (720p) [Not 24/7]
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Suriyan TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1 group-title="Religious",SVBC Sri Venkateswara Bhakti Channel (1080p)
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Swantham (720p) [Not 24/7]
+http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Swaraj Express (720p) [Not 24/7]
+https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+#EXTINF:-1 group-title="Undefined",Tamil Vision TV (1080p)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="General",Tehelka TV (480p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Three Angels Broadcasting Network International (3ABN) (720p)
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+#EXTINF:-1 group-title="Movies",Thrill (576p)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="News",Time Vision News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
+#EXTINF:-1 group-title="News",Times Now (480p) [Geo-blocked]
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 group-title="Undefined",Times Now Navbharat [Geo-blocked]
+https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+#EXTINF:-1 group-title="Undefined",Toonz Kids (Indonesian dub) (576p)
+http://210.210.155.37/x6bnqe/s/s81/01.m3u8
+#EXTINF:-1 group-title="Travel",Travel XP (720p)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="News",TV9 Kannada (720p) [Not 24/7]
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+#EXTINF:-1 group-title="General",TV BRICS English (1080p)
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TVE Internacional Asia-Oceania (576p)
+http://210.210.155.37/uq2663/h/h158/index2.m3u8
+#EXTINF:-1 group-title="General",TVM Internacional (480p) [Not 24/7]
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",Twenty Four News (576p) [Not 24/7]
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 group-title="Undefined",UBL HD (1080p) [Not 24/7]
+https://cdn.logicwebs.in/hls/ublhdkey.m3u8
+#EXTINF:-1 group-title="News",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="Movies",Utsav Gold (720p) [Geo-blocked]
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 group-title="Undefined",Vathanam TV
+http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
+#EXTINF:-1 group-title="Entertainment",Velicham (360p) [Not 24/7]
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Vyas NIC (480p)
+https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
+#EXTINF:-1 group-title="Undefined",Weatherspy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle",World Fashion Channel International (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 group-title="Sports",World Poker Tour (1080p) [Not 24/7]
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 group-title="Undefined",Xplore Channel (720p)
+http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Yolo (410p) [Not 24/7]
+http://cdn.logicwebs.in/hls/yolo.m3u8
+#EXTINF:-1 group-title="Undefined",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 group-title="Undefined",Zee Aflam (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 group-title="Undefined",Zee News Malayalam
+https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
+#EXTINF:-1 group-title="Undefined",Zee TV (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
+#EXTINF:-1 group-title="Undefined",Zoom (1080p)
+http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:-1 group-title="News",民視台灣 (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=tw
